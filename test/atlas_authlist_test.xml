@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collaborationauthorlist SYSTEM "authors.dtd">
+<collaborationauthorlist
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:cal="http://www.slac.stanford.edu/spires/hepnames/authors_xml/">
+<cal:creationDate>03-Jul-2016</cal:creationDate>
+<cal:publicationReference>None</cal:publicationReference>
+<cal:publicationReference>CERN-PH-EP-XXXX</cal:publicationReference>
+<cal:collaborations>
+<cal:collaboration id="c1">
+<foaf:name>ATLAS</foaf:name>
+<cal:experimentNumber></cal:experimentNumber>
+</cal:collaboration>
+</cal:collaborations>
+<cal:organizations>
+<foaf:Organization id="o1">
+	<cal:orgDomain>http://physsci.adelaide.edu.au/hep/</cal:orgDomain>
+	<foaf:name>Department of Physics, University of Adelaide, Adelaide, Australia</foaf:name>
+	<cal:orgName source="spiresICN">Adelaide U., Sch. Chem. Phys.</cal:orgName>
+	<cal:orgName source="InstId">275</cal:orgName>
+	<cal:orgName source="shortName">Adelaide</cal:orgName>
+	<cal:orgStatus>member</cal:orgStatus>
+</foaf:Organization>
+<foaf:Organization id="o2">
+	<cal:orgDomain>http://albany.edu</cal:orgDomain>
+	<foaf:name>Physics Department, SUNY Albany, Albany NY, United States of America</foaf:name>
+	<cal:orgName source="spiresICN">SUNY, Albany</cal:orgName>
+	<cal:orgName source="InstId">1</cal:orgName>
+	<cal:orgName source="shortName">Albany</cal:orgName>
+	<cal:orgStatus>member</cal:orgStatus>
+</foaf:Organization>
+<foaf:Organization id="o22a">
+	<cal:orgDomain>http://bo.infn.it</cal:orgDomain>
+	<foaf:name>INFN Sezione di Bologna, Italy</foaf:name>
+	<cal:orgName source="spiresICN">INFN, Bologna</cal:orgName>
+	<cal:orgName source="InstId">167</cal:orgName>
+	<cal:orgName source="shortName">Bologna</cal:orgName>
+	<cal:orgStatus>member</cal:orgStatus>
+</foaf:Organization>
+</cal:organizations>
+<cal:authors>
+<foaf:Person>
+	<foaf:name>Paul Jackson</foaf:name>
+	<foaf:givenName>Paul</foaf:givenName>
+	<foaf:familyName>Jackson</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>P. Jackson</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o1" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00042110</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+<foaf:Person>
+	<foaf:name>Lawrence Lee</foaf:name>
+	<foaf:givenName>Lawrence</foaf:givenName>
+	<foaf:familyName>Lee</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>L. Lee</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o1" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00231146</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+<foaf:Person>
+	<foaf:name>Julian Bouffard</foaf:name>
+	<foaf:givenName>Julian</foaf:givenName>
+	<foaf:familyName>Bouffard</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>J. Bouffard</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o2" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00360686</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+<foaf:Person>
+	<foaf:name>Jesse Ernst</foaf:name>
+	<foaf:givenName>Jesse</foaf:givenName>
+	<foaf:familyName>Ernst</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>J. Ernst</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o2" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00079869</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+<foaf:Person>
+	<foaf:name>Alessandro Gabrielli</foaf:name>
+	<foaf:givenName>Alessandro</foaf:givenName>
+	<foaf:familyName>Gabrielli</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>A. Gabrielli</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o22a" connection="" />
+		<cal:authorAffiliation organizationid="o22b" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00342638</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+<foaf:Person>
+	<foaf:name>Antonio Sidoti</foaf:name>
+	<foaf:givenName>Antonio</foaf:givenName>
+	<foaf:familyName>Sidoti</foaf:familyName>
+	<cal:authorNameNative></cal:authorNameNative>
+	<cal:authorSuffix></cal:authorSuffix>
+	<cal:authorStatus></cal:authorStatus>
+	<cal:authorNamePaper>A. Sidoti</cal:authorNamePaper>
+	<cal:authorCollaboration collaborationid="c1" position="" />
+	<cal:authorAffiliations>
+		<cal:authorAffiliation organizationid="o22a" connection="" />
+		<cal:authorAffiliation organizationid="o22b" connection="" />
+	</cal:authorAffiliations>
+	<cal:authorids>
+		<cal:authorid source="INSPIRE">INSPIRE-00040767</cal:authorid>
+	</cal:authorids>
+</foaf:Person>
+</cal:authors>
+</collaborationauthorlist>

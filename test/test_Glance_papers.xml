@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="blank.css"?>
+<result>
+	<directLink><![CDATA[http://cern.ch/atglance/cgi-bin/executeQuery?siid=2772&c0=PUBLICATIONSTATUS&o0=0&v0=submission_active&r0=&e0=&c1=PUBLICATIONSTATUS&o1=0&v1=submission_closed&r1=&e1=&n=2&op=or&of=xmlDownload]]></directLink>
+	<row id="0">
+		<column description="Publication ID" name="ID">2</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[J/Psi cross sections]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the differential cross-sections of inclusive, prompt and non-prompt J/psi production in proton-proton collisions at sqrt(s) = 7 TeV]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Periods B, C, D1, E, F]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">2.4</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[picobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[Nucl. Phys. B]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD">2010/06/01</column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD">2010/07/15</column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[1]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2010/01/23 11:15:45</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2010-01]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2011/04/15</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[NPB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2011/05/23</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Andreas Korn,Andrew Nelson,Attilio Picazio,Camilla Maiani,Chariclia Petridou,Darren Price,Eleni Mountricha,Erez Etzion,Francesco Conventi,Gabriele Chiodini,James Catmore,James Walder,Kohei Kessoku,Konstantinos Bachas,Maria Smizanska,Massimo Corradi,Max Scherzer,Michela Biglietti,Nir Amram,Rosy Nicolaidou,Samira Hassani,Soeren Prell,Stefania Spagnolo,Stefano Giagu,Susumu Oda,Takashi Matsushita,Vakhtang Kartvelishvili]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Darren Price,Vakhtang Kartvelishvili]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Fabio Cerutti,Lorenzo Feligioni,Marina Cobal,Max Klein]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Marina Cobal]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Andreas Korn,Andrew Nelson,Attilio Picazio,Camilla Maiani,Chariclia Petridou,Darren Price,Eleni Mountricha,Erez Etzion,Francesco Conventi,Gabriele Chiodini,James Catmore,James Walder,Kohei Kessoku,Konstantinos Bachas,Maria Smizanska,Massimo Corradi,Max Scherzer,Michela Biglietti,Nir Amram,Rosy Nicolaidou,Samira Hassani,Soeren Prell,Stefania Spagnolo,Stefano Giagu,Susumu Oda,Takashi Matsushita,Vakhtang Kartvelishvili,Darren Price,Vakhtang Kartvelishvili,Fabio Cerutti,Lorenzo Feligioni,Marina Cobal,Max Klein]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2011-041@http%3A//cdsweb.cern.ch/record/1345755%3Fln%3Den@final_cdsURL],[DOI%3A%2010.1016/j.nuclphysb.2011.05.015@http%3A//dx.doi.org/10.1016/j.nuclphysb.2011.05.015@final_journalPublicationURL],[Inspire%20record@http%3A//inspirebeta.net/record/896268@final_journalPublicationURL],[Nucl.%20Phys.%20B%20850%20%282011%29%20387-444@http%3A//www.sciencedirect.com/science/article/pii/S0550321311002938@final_journalPublicationURL],[arXiv%3A1104.3038@http%3A//arxiv.org/abs/1104.3038@final_arxivURL],[http%3A//cdsweb.cern.ch/record/1313486@http%3A//cdsweb.cern.ch/record/1313486@phase1_supportDocumentsURL],[http%3A//cdsweb.cern.ch/record/1336474@http%3A//cdsweb.cern.ch/record/1336474@phase3_cdsURL],[http%3A//indico.cern.ch/conferenceDisplay.py?confId=116737@http%3A//indico.cern.ch/conferenceDisplay.py?confId=116737@phase1_indicoURL],[http://cdsweb.cern.ch/record/1326031@http://cdsweb.cern.ch/record/1326031@phase1_cdsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1104.3038]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2011/06/10</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID"></column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[NPB-D-11-00141;NUPHB12230]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[http%3A//cdsweb.cern.ch/record/1313486@http%3A//cdsweb.cern.ch/record/1313486@supportDocumentsURL]]]></column>
+	</row>
+	<row id="1">
+		<column description="Publication ID" name="ID">141</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Upsilon differential production cross section]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the Upsilon(1S) Production Cross-Section in pp Collisions at sqrt(s) = 7 TeV in ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Periods E and F]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">1</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[picobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD">2011/04/11</column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD">2011/04/11</column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[1]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/03/02 15:21:02</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-01]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2011/06/27</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2011/09/26</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Andreas Korn,Beate Heinemann,Darren Price,Hal Evans,James Catmore,Max Scherzer,Shih-Chieh Hsu,Yi Yang]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Beate Heinemann,Darren Price]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andrew Mehta,Cesare Bini,Frank Ellinghaus,Samira Hassani]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Andrew Mehta]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Andreas Korn,Beate Heinemann,Darren Price,Hal Evans,James Catmore,Max Scherzer,Shih-Chieh Hsu,Yi Yang,Beate Heinemann,Darren Price,Andrew Mehta,Cesare Bini,Frank Ellinghaus,Samira Hassani]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[ATL-COM-PHYS-2011-170@http%3A//cdsweb.cern.ch/record/1330359@phase1_supportDocumentsURL],[CERN-PH-EP-2011-083@http%3A//cdsweb.cern.ch/record/1363021@final_cdsURL],[DOI%3A10.1016/j.physletb.2011.09.093@http%3A//dx.doi.org/10.1016/j.physletb.2011.09.093@final_journalPublicationURL],[FIgures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-01/@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/915921@final_journalPublicationURL],[Phys.Lett.%20B705%20%282011%29%209-27@http%3A//www.sciencedirect.com/science/article/pii/S0370269311011920@final_journalPublicationURL],[arXiv%3A1106.5325%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1106.5325@final_arxivURL],[http%3A//cdsweb.cern.ch/record/1353814@http%3A//cdsweb.cern.ch/record/1353814@phase3_cdsURL],[http%3A//nolink@http%3A//nolink@phase1_indicoURL],[http://cdsweb.cern.ch/record/1348505@http://cdsweb.cern.ch/record/1348505@phase1_cdsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1106.5325 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2011/10/14</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID"></column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[PLB-D-11-00920;PLB_28016]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[ATL-COM-PHYS-2011-170@http%3A//cdsweb.cern.ch/record/1330359@supportDocumentsURL]]]></column>
+	</row>
+	<row id="2">
+		<column description="Publication ID" name="ID">574</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[b cross-section from D*mu events]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the b-hadron production cross section using decays to D*muX final states in pp collisions at sqrt(s) = 7 TeV with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[All 2010]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">3.3</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[picobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[Nuclear Physics B ]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-hadronic]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[2]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/04/21 15:22:19</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-02]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2012/06/14</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[NPB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2012/07/11</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Andrea Coccaro,Andrea Ferretto Parodi,Carlo Schiavi,Fabrizio Parodi,Leonardo Paolo  Rossi,Leonid Gladilin]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Andrea Ferretto Parodi,Leonid Gladilin]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andreas Wildauer,Dario Barberis,Frederic Derue,Peter Watkins]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Andreas Wildauer,Dario Barberis]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Andrea Coccaro,Andrea Ferretto Parodi,Carlo Schiavi,Fabrizio Parodi,Leonardo Paolo  Rossi,Leonid Gladilin,Andrea Ferretto Parodi,Leonid Gladilin,Andreas Wildauer,Dario Barberis,Frederic Derue,Peter Watkins]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2012-121@http%3A//cdsweb.cern.ch/record/1456046@final_cdsURL],[DOI%3A10.1016/j.nuclphysb.2012.07.009@http%3A//dx.doi.org/10.1016/j.nuclphysb.2012.07.009@final_journalPublicationURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-02@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1118269@final_journalPublicationURL],[Internal%20supprting%20note@http%3A//cdsweb.cern.ch/record/1364585@phase1_supportDocumentsURL],[Nucl.%20Phys.%20B%20864%20%282012%29%20341-381@http%3A//www.sciencedirect.com/science/article/pii/S0550321312003926@final_journalPublicationURL],[arXiv%3A1206.3122%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1206.3122@final_arxivURL],[http%3A//cdsweb.cern.ch/record/1444177@http%3A//cdsweb.cern.ch/record/1444177@phase3_cdsURL],[http://cdsweb.cern.ch/record/1437254@http://cdsweb.cern.ch/record/1437254@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py?confId=128232@https%3A//indico.cern.ch/conferenceDisplay.py?confId=128232@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1206.3122 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2012/08/01</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">1999</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Pippa Wells]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[NPB-D-12-00254;NUPHB_12564]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Internal%20supprting%20note@http%3A//cdsweb.cern.ch/record/1364585@supportDocumentsURL]]]></column>
+	</row>
+	<row id="3">
+		<column description="Publication ID" name="ID">1141</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Bs->mumu]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Search for the decay B^0_s->mu+mu- with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">2.4</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-rare]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[4]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/08/05 08:36:20</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-04]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2012/04/03</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2012/06/07</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Alessandro Cerri,Alexey Boldyrev,Anna Usanova,Bakul Gaur,Charilaos Tsarouchas,Domenico della Volpe,Elisa Musto,Emmerich Kneringer,Georgios Tsipolitis,Gerald Eigen,Iskander Ibragimov,James Catmore,Jaroslav Guenther,Kai Grybel,Konstantinos Karakostas,Kunihiro Nagano,Lidia Smirnova,Marcella Bona,Paolo Iengo,Patrick Jussel,Peter Buchholz,Sandro Palestini,Semen Turchikhin,Serguei Sivoklokov,Sotirios Vlachos,Stefanos Leontsinis,Steven Beale,Takuya Nobe,Theodoros Alexopoulos,Trygve Buanes,Valentin Sipica,Wolfgang Walkowiak]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Alessandro Cerri,Sandro Palestini]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andreas Hoecker,Dario Barberis,Giacinto Piacquadio,Peter Kluit]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Dario Barberis]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Alessandro Cerri,Alexey Boldyrev,Anna Usanova,Bakul Gaur,Charilaos Tsarouchas,Domenico della Volpe,Elisa Musto,Emmerich Kneringer,Georgios Tsipolitis,Gerald Eigen,Iskander Ibragimov,James Catmore,Jaroslav Guenther,Kai Grybel,Konstantinos Karakostas,Kunihiro Nagano,Lidia Smirnova,Marcella Bona,Paolo Iengo,Patrick Jussel,Peter Buchholz,Sandro Palestini,Semen Turchikhin,Serguei Sivoklokov,Sotirios Vlachos,Stefanos Leontsinis,Steven Beale,Takuya Nobe,Theodoros Alexopoulos,Trygve Buanes,Valentin Sipica,Wolfgang Walkowiak,Alessandro Cerri,Sandro Palestini,Andreas Hoecker,Dario Barberis,Giacinto Piacquadio,Peter Kluit]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2012-067@http%3A//cdsweb.cern.ch/record/1437014@final_cdsURL],[DOI%3A10.1016/j.physletb.2012.06.013@http%3A//dx.doi.org/10.1016/j.physletb.2012.06.013@final_journalPublicationURL],[Draft%202@http%3A//cdsweb.cern.ch/record/1427755@phase3_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-04@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1102909@final_journalPublicationURL],[Phys.%20Lett.%20B%20713%20%282012%29%20387-407@http%3A//www.sciencedirect.com/science/article/pii/S0370269312006399@final_journalPublicationURL],[Supporting%20internal%20note@https%3A//cdsweb.cern.ch/record/1401844@phase1_supportDocumentsURL],[arXiv%3A1204.0735%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1204.0735@final_arxivURL],[http://cdsweb.cern.ch/record/1424998@http://cdsweb.cern.ch/record/1424998@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py?confId=166543@https%3A//indico.cern.ch/conferenceDisplay.py?confId=166543@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1204.0735 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2012/06/29</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">794</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[James Pilcher]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[PLB-D-12-00583;PLB_28653]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[Bsmumu limit@ATLAS-CONF-2012-010@CONF-BPHY-2007-01@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2012-010","id":"3109","creation":"2012/02/22","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Supporting%20internal%20note@https%3A//cdsweb.cern.ch/record/1401844@supportDocumentsURL]]]></column>
+	</row>
+	<row id="4">
+		<column description="Publication ID" name="ID">1381</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Bs->J/psi phi]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Time dependent angular analysis of the decay Bs->J/psi phi and extraction of Delta Gamma_s and the CP-violating weak phase phi_s by ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011 B2, D, E, F2, F3, G, H, I , J, K1-K4]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">4.9</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-jpsi]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[5]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/10/14 17:41:37</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-05]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2012/08/02</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2012/11/23</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Adam Edward Barton,Alastair Dewhurst,Claudio Heller,Ivanka Bozovic-Jelisavcic,James Catmore,Jochen Schieck,Julie Kirk,Louise Beth Oakes,Maria Smizanska,Pavel Reznicek,Roger Jones,Tatjana Agatonovic-Jovin,Tomas Jakoubek,William James Dearnaley]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Jochen Schieck,Maria Smizanska]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[David Rousseau,Elisa Pueschel,Nikolaos Konstantinidis,Stefano Rosati]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Stefano Rosati]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Adam Edward Barton,Alastair Dewhurst,Claudio Heller,Ivanka Bozovic-Jelisavcic,James Catmore,Jochen Schieck,Julie Kirk,Louise Beth Oakes,Maria Smizanska,Pavel Reznicek,Roger Jones,Tatjana Agatonovic-Jovin,Tomas Jakoubek,William James Dearnaley,Jochen Schieck,Maria Smizanska,David Rousseau,Elisa Pueschel,Nikolaos Konstantinidis,Stefano Rosati]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CDS%20record%20for%20supporting%20note%20ad%20first%20draft%20of%20paper@https%3A//cdsweb.cern.ch/record/1423324/@phase1_supportDocumentsURL],[CERN-PH-EP-2012-182@http%3A//cdsweb.cern.ch/record/1471553@final_cdsURL],[DOI%3A10.1007/JHEP12%282012%29072@http%3A//dx.doi.org/10.1007/JHEP12%282012%29072@final_journalPublicationURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-05@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1125576@final_journalPublicationURL],[JHEP%201212%20%282012%29%20072@http%3A//link.springer.com/article/10.1007/JHEP12%282012%29072@final_journalPublicationURL],[arXiv%3A1208.0572%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1208.0572@final_arxivURL],[http%3A//cdsweb.cern.ch/record/1457104@http%3A//cdsweb.cern.ch/record/1457104@phase3_cdsURL],[http://cdsweb.cern.ch/record/1455108@http://cdsweb.cern.ch/record/1455108@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D186962@https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D186962@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1208.0572 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2012/12/13</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">794</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[James Pilcher]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[JHEP_027P_0812]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[CDS%20record%20for%20supporting%20note%20ad%20first%20draft%20of%20paper@https%3A//cdsweb.cern.ch/record/1423324/@supportDocumentsURL]]]></column>
+	</row>
+	<row id="5">
+		<column description="Publication ID" name="ID">1441</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Upsilon cross section]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of Upsilon production in 7 TeV pp collisions at ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011: B2, D, E, F2-F3, G, H, I, J, K1-K4]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">1.8</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[http://hepdata.cedar.ac.uk/view/ins1204994 ]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PRD]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-onia]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[6]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/10/20 12:55:29</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-06]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2012/11/30</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PRD]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2013/02/04</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Darren Price,Hal Evans,Vakhtang Kartvelishvili,Yi Yang]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Darren Price,Hal Evans,Vakhtang Kartvelishvili,Yi Yang]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Chariclia Petridou,David Milstead,Marco Rescigno,Soeren Prell]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[David Milstead]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Darren Price,Hal Evans,Vakhtang Kartvelishvili,Yi Yang,Darren Price,Hal Evans,Vakhtang Kartvelishvili,Yi Yang,Chariclia Petridou,David Milstead,Marco Rescigno,Soeren Prell]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2012-295@https%3A//cdsweb.cern.ch/record/1481560@final_cdsURL],[DOI%3A10.1103/PhysRevD.87.052004@http%3A//link.aps.org/doi/10.1103/PhysRevD.87.052004@final_journalPublicationURL],[Draft%202@http%3A//cdsweb.cern.ch/record/1481560@phase3_cdsURL],[Figures@http%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-06/@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1204994%3Fln%3Den@final_journalPublicationURL],[Phys.%20Rev.%20D%2087%2C%20052004%20%282013%29@http%3A//prd.aps.org/abstract/PRD/v87/i5/e052004@final_journalPublicationURL],[Supporting%20document%20including%20first%20draft%20of%20paper@https%3A//cdsweb.cern.ch/record/1426297/@phase1_supportDocumentsURL],[arXiv%3A1211.7255%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1211.7255@final_arxivURL],[https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D175842@https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D175842@phase1_indicoURL],[https://cdsweb.cern.ch/record/1476331@https://cdsweb.cern.ch/record/1476331@phase1_cdsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1211.7255 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2012-295]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Robert McPherson]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[Klaus Moenig]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2013/03/04</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">569</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Robert McPherson]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">3676</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[DY11175]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Supporting%20document%20including%20first%20draft%20of%20paper@https%3A//cdsweb.cern.ch/record/1426297/@supportDocumentsURL]]]></column>
+	</row>
+	<row id="6">
+		<column description="Publication ID" name="ID">1541</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Radiative ChiB decays]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Observation of a new chi_b state in radiative transitions to Upsilon(1S) and Upsilon(2S) at ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Full 2011]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">5</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PRL]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[7]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/11/14 12:20:53</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2011-07]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2011/12/21</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PRL]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2012/01/11</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Andrew Chisholm,Christopher Hawkes,Darren Price,James Catmore,James Walder,Miriam Watson,Peter Watkins,Sandro Palestini,Vakhtang Kartvelishvili]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Andrew Chisholm,Christopher Hawkes,Darren Price,James Walder,Miriam Watson,Peter Watkins,Vakhtang Kartvelishvili]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andreas Korn,Bruno Lenzi,Massimo Corradi,Thomas LeCompte]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Thomas LeCompte]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Andrew Chisholm,Christopher Hawkes,Darren Price,James Catmore,James Walder,Miriam Watson,Peter Watkins,Sandro Palestini,Vakhtang Kartvelishvili,Andrew Chisholm,Christopher Hawkes,Darren Price,James Walder,Miriam Watson,Peter Watkins,Vakhtang Kartvelishvili,Andreas Korn,Bruno Lenzi,Massimo Corradi,Thomas LeCompte]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2011-225@http%3A//cdsweb.cern.ch/record/1409158@final_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2011-07/@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1082461@final_journalPublicationURL],[Phys.%20Rev.%20Lett.%20108%20%282012%29%20152001@http%3A//link.aps.org/doi/10.1103/PhysRevLett.108.152001@final_journalPublicationURL],[Supporting%20material+paper%20draft%20at%20front@https%3A//cdsweb.cern.ch/record/1404282/@phase1_supportDocumentsURL],[arXiv%3A1112.5154%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1112.5154@final_arxivURL],[doi%3A10.1103/PhysRevLett.108.152001@http%3A//dx.doi.org/10.1103/PhysRevLett.108.152001@final_journalPublicationURL],[http%3A//cdsweb.cern.ch/record/1407526@http%3A//cdsweb.cern.ch/record/1407526@phase3_cdsURL],[http://cdsweb.cern.ch/record/1405446@http://cdsweb.cern.ch/record/1405446@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py?confId=164957@https%3A//indico.cern.ch/conferenceDisplay.py?confId=164957@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1112.5154 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2012/04/09</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID"></column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[LM13373]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Supporting%20material+paper%20draft%20at%20front@https%3A//cdsweb.cern.ch/record/1404282/@supportDocumentsURL]]]></column>
+	</row>
+	<row id="7">
+		<column description="Publication ID" name="ID">2221</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Bs decay to muon pairs full2012]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Study of the rare decays of $B^0_s$ and $B^0$ into muon pairs from data collected during the LHC Run 1 with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2012]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">20</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-rare]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[1]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/03/22 18:42:27</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-01]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_active]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2016/04/14</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[EPJC]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2016/08/25</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Adrian John Bevan,Alessandro Cerri,Antoine Marzin,Bakul Gaur,Cristiano Alpigiani,Dave Lewis,Fabio Tresoldi,Iskander Ibragimov,James Catmore,Jaroslav Guenther,Konstantinos Karakostas,Lidia Smirnova,Marcella Bona,Oliver James Winston,Peter Buchholz,Sandro Palestini,Semen Turchikhin,Serguei Sivoklokov,Stefanos Leontsinis,Umberto De Sanctis,Weiming Yao,Wolfgang Walkowiak]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Marcella Bona,Sandro Palestini]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[George Redlinger,Giacinto Piacquadio,Guido Volpi,James Pilcher,Shlomit Tarem]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[James Pilcher]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Adrian John Bevan,Alessandro Cerri,Antoine Marzin,Bakul Gaur,Cristiano Alpigiani,Dave Lewis,Fabio Tresoldi,Iskander Ibragimov,James Catmore,Jaroslav Guenther,Konstantinos Karakostas,Lidia Smirnova,Marcella Bona,Oliver James Winston,Peter Buchholz,Sandro Palestini,Semen Turchikhin,Serguei Sivoklokov,Stefanos Leontsinis,Umberto De Sanctis,Weiming Yao,Wolfgang Walkowiak,Marcella Bona,Sandro Palestini,George Redlinger,Giacinto Piacquadio,Guido Volpi,James Pilcher,Shlomit Tarem]]></column>
+		<column description="ECM" name="ECM"><![CDATA[8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-EP-2016-064@https%3A//cds.cern.ch/record/2146067@final_cdsURL],[Inspire@http://inspirehep.net/record/1446983@final_journalPublicationURL],[arXiv%3A1604.04263@http%3A//arxiv.org/abs/1604.04263@final_arxivURL],[http%3A//cds.cern.ch/record/2130803@http%3A//cds.cern.ch/record/2130803@phase1_cdsURL],[http%3A//cds.cern.ch/record/2135927@http%3A//cds.cern.ch/record/2135927@phase3_cdsURL],[https%3A//indico.cern.ch/event/404999/@https%3A//indico.cern.ch/event/404999/@phase1_indicoURL],[https%3A//indico.cern.ch/event/496702/@https%3A//indico.cern.ch/event/496702/@phase1_atlasPresentationURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1604.04263]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-EP-2016-064]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD"></column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">1934</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Andreas Hoecker]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">4544</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[EPJC-16-04-052]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Internal%20documentation@https%3A//cds.cern.ch/record/1756291/@supportDocumentsURL]]]></column>
+	</row>
+	<row id="8">
+		<column description="Publication ID" name="ID">2521</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Psi2S vs Jpsi production]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the differential cross-sections of prompt and non-prompt production of $J/\psi$ and $\psi(2\mathrm{S})$ in $pp$ collisions at $\sqrt{s} = 7$ and $8$ TeV with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011 + 2012]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">13.53</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[EPJC]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-onia]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[2]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/05/05 10:23:21</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-02]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2015/12/11</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[EPJC]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2016/03/31</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Darren Price,Georgios Tsipolitis,James Walder,Konstantinos Karakostas,Lee John Allison,Susan Cheatham,Vakhtang Kartvelishvili]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[James Walder,Konstantinos Karakostas]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Brian Edward Lindquist,Dario Barberis,David Rousseau,Marina Cobal]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[David Rousseau]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Darren Price,Georgios Tsipolitis,James Walder,Konstantinos Karakostas,Lee John Allison,Susan Cheatham,Vakhtang Kartvelishvili,James Walder,Konstantinos Karakostas,Brian Edward Lindquist,Dario Barberis,David Rousseau,Marina Cobal]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV,8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[Analysis%20note%207%20TeV@https%3A//cds.cern.ch/record/1564248@phase1_supportDocumentsURL],[Analysis%20note%208%20TeV@https%3A//cds.cern.ch/record/1967399@phase1_supportDocumentsURL],[CERN-PH-EP-2015-292@https%3A//cds.cern.ch/record/2112269@final_cdsURL],[DOI%3A10.1140/epjc/s10052-016-4050-8@http%3A//dx.doi.org/10.1140/epjc/s10052-016-4050-8@final_journalPublicationURL],[Eur.%20Phys.%20J.%20C%2076%285%29%2C%201-47%2C%20%282016%29@http%3A//link.springer.com/article/10.1140/epjc/s10052-016-4050-8@final_journalPublicationURL],[Group%20approval@https%3A//indico.cern.ch/event/393209/@phase1_indicoURL],[Inspire@http%3A//inspirehep.net/record/1409298@final_journalPublicationURL],[arXiv%3A1512.03657@http%3A//arxiv.org/abs/1512.03657@final_arxivURL],[http%3A//cds.cern.ch/record/2023931@http%3A//cds.cern.ch/record/2023931@phase1_cdsURL],[http%3A//cds.cern.ch/record/2062462@http%3A//cds.cern.ch/record/2062462@phase3_cdsURL],[https%3A//indico.cern.ch/event/403337/@https%3A//indico.cern.ch/event/403337/@phase1_atlasPresentationURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1512.03657]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2015-292]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2016/05/25</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">2049</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Aleandro Nisati]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">1246</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[EPJC-15-12-040, EPJC_4050]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[7707]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[CONF-BPHY-2012-02]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[[Psi2S vs Jpsi production/Measurement of the relative and absolute production cross-sections of prompt and non-prompt J/psi and psi(2S) in pp collisions at sqrt(s) = 7 and 8 TeV with the ATLAS detector /CONF-BPHY-2012-02]]]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[Psi2S vs Jpsi production@ATLAS-CONF-2015-024@CONF-BPHY-2012-02@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2015-024","id":"7707","creation":"2015/06/25","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Analysis%20note%208%20TeV@https%3A//cds.cern.ch/record/1967399@supportDocumentsURL],[Analysis%20note%207%20TeV@https%3A//cds.cern.ch/record/1564248@supportDocumentsURL]]]></column>
+	</row>
+	<row id="9">
+		<column description="Publication ID" name="ID">2561</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[LambdaB mass and lifetime]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the Lambda_b lifetime and mass in the ATLAS experiment]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Full 2011 sample]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">4.9</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PRD]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-jpsi]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[3]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/05/09 20:49:46</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-03]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2012/07/10</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PRD]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2013/01/16</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Daniel Scheirich,Evelina Vassileva Bouhova-Thacker,Hal Evans,Homer Neal,Jochen Schieck,Mohamed Gouighri,Natalia Panikashvili]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Daniel Scheirich,Evelina Vassileva Bouhova-Thacker,Jochen Schieck]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[David Rousseau,Heiko Lacker,Pawel Bruckman de Renstrom,Robert Victor Kowalewski]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[David Rousseau]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Daniel Scheirich,Evelina Vassileva Bouhova-Thacker,Hal Evans,Homer Neal,Jochen Schieck,Mohamed Gouighri,Natalia Panikashvili,Daniel Scheirich,Evelina Vassileva Bouhova-Thacker,Jochen Schieck,David Rousseau,Heiko Lacker,Pawel Bruckman de Renstrom,Robert Victor Kowalewski]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2012-163@http%3A//cdsweb.cern.ch/record/1461224@final_cdsURL],[DOI%3A10.1103/PhysRevD.87.032002@http%3A//link.aps.org/doi/10.1103/PhysRevD.87.032002@final_journalPublicationURL],[Draft%202@http%3A//cdsweb.cern.ch/record/1453831@phase3_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2012-03@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1121875@final_journalPublicationURL],[Phys.%20Rev.%20D%2087%2C%20032002%20%282013%29@http%3A//prd.aps.org/abstract/PRD/v87/i3/e032002@final_journalPublicationURL],[arXiv%3A1207.2284%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1207.2284@final_arxivURL],[draft%20and%20supporting%20material@https%3A//cdsweb.cern.ch/record/1406836/@phase1_supportDocumentsURL],[http://cdsweb.cern.ch/record/1449783@http://cdsweb.cern.ch/record/1449783@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D190585@https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D190585@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1207.2284 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2013/02/04</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">5110</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[DU11058]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[LambdaB lifetime@ATLAS-CONF-2012-055@CONF-BPHY-2007-01@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2012-055","id":"2761","creation":"2011/12/02","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[draft%20and%20supporting%20material@https%3A//cdsweb.cern.ch/record/1406836/@supportDocumentsURL]]]></column>
+	</row>
+	<row id="10">
+		<column description="Publication ID" name="ID">2722</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Excited Bc meson]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Observation of an excited Bc meson state with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011 and 2012 data.]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">24.1</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[-]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-jpsi]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[4]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/05/30 15:28:41</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-04]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2014/07/03</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PRL]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2014/09/23</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Konstantin Toms,Rui Wang,Sally Seidel]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Konstantin Toms,Rui Wang,Sally Seidel]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Pawel Bruckman de Renstrom,Roger Jones,Roger Moore,Sergey Burdin]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Roger Jones]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Konstantin Toms,Rui Wang,Sally Seidel,Konstantin Toms,Rui Wang,Sally Seidel,Pawel Bruckman de Renstrom,Roger Jones,Roger Moore,Sergey Burdin]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV,8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2014-137@https%3A//cds.cern.ch/record/1734202@final_cdsURL],[DOI@http%3A//dx.doi.org/10.1103/PhysRevLett.113.212004@final_journalPublicationURL],[Draft%202@http%3A//cds.cern.ch/record/1708345@phase3_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2012-04/@final_journalPublicationURL],[Group%20approval%20presentation@https%3A//indico.cern.ch/event/309255/contribution/10/material/slides/0.pdf@phase1_indicoURL],[Inspire@http%3A//inspirehep.net/record/1304691@final_journalPublicationURL],[Internal%20document%20%28appendices%29%20and%20paper%20draft%20%28main%20section%29@http%3A//cds.cern.ch/record/1455718@phase1_supportDocumentsURL],[Internal%20documentation%20as%20appendix%20to%20paper%20draft@http%3A//cds.cern.ch/record/1455718@phase1_supportDocumentsURL],[Phys.%20Rev.%20Lett.%20113%2C%20212004%20%282014%29@http%3A//journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.212004@final_journalPublicationURL],[arXiv%3A1407.1032@http%3A//arxiv.org/abs/1407.1032@final_arxivURL],[https%3A//indico.cern.ch/event/321452/@https%3A//indico.cern.ch/event/321452/@phase1_atlasPresentationURL],[https://cds.cern.ch/record/1696336@https://cds.cern.ch/record/1696336@phase1_cdsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1407.1032]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2014-137]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[Juan Terron]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2014/11/21</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">5110</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">1280</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[LU14423]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Internal%20documentation%20as%20appendix%20to%20paper%20draft@http%3A//cds.cern.ch/record/1455718@supportDocumentsURL],[Internal%20document%20%28appendices%29%20and%20paper%20draft%20%28main%20section%29@http%3A//cds.cern.ch/record/1455718@supportDocumentsURL]]]></column>
+	</row>
+	<row id="11">
+		<column description="Publication ID" name="ID">2843</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Bplus cross section]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the differential cross section of B+ meson production in pp collisions at sqrt(s) = 7 TeV at ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011, 1st half]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">2.4</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[http://hepdata.cedar.ac.uk/view/red6091 ]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-jpsi]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[5]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/06/25 10:04:14</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-05]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2013/06/29</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2013/09/02</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Chariclia Petridou,Hal Evans,Ioannis Nomidis,Jochen Schieck]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Chariclia Petridou,Hal Evans,Ioannis Nomidis,Jochen Schieck]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Elisa Pueschel,Stefano Rosati,Vakhtang Kartvelishvili,Wendy Taylor]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Stefano Rosati]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Chariclia Petridou,Hal Evans,Ioannis Nomidis,Jochen Schieck,Chariclia Petridou,Hal Evans,Ioannis Nomidis,Jochen Schieck,Elisa Pueschel,Stefano Rosati,Vakhtang Kartvelishvili,Wendy Taylor]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2013-089@http%3A//cds.cern.ch/record/1559061@final_cdsURL],[DOI%3A10.1007/JHEP10%282013%29042@http%3A//dx.doi.org/10.1007/JHEP10%282013%29042@final_journalPublicationURL],[Draft%202@https%3A//cds.cern.ch/record/1550735%3F@phase3_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2012-05@final_journalPublicationURL],[Group%20approval@https%3A//indico.cern.ch/conferenceDisplay.py%3FconfId%3D219383@phase1_indicoURL],[Inspire@http%3A//inspirehep.net/record/1240670@final_journalPublicationURL],[JHEP10%282013%29042@http%3A//link.springer.com/article/10.1007/JHEP10%282013%29042@final_journalPublicationURL],[Supporting%20document@https%3A//cdsweb.cern.ch/record/1489961%3F@phase1_supportDocumentsURL],[arXiv%3A1307.0126%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1307.0126@final_arxivURL],[http://cds.cern.ch/record/1516932@http://cds.cern.ch/record/1516932@phase1_cdsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1307.0126 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2013-089]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Thomas LeCompte]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[Halina Abramowicz]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2013/10/08</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">160</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Thomas LeCompte]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">436</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[JHEP_255P_0613]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[Bplus cross section@ATLAS-CONF-2013-008@CONF-BPHY-2007-01@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2013-008","id":"5485","creation":"2013/02/27","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Supporting%20document@https%3A//cdsweb.cern.ch/record/1489961%3F@supportDocumentsURL]]]></column>
+	</row>
+	<row id="12">
+		<column description="Publication ID" name="ID">3022</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Associated Jpsi and W production]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Measurement of the production cross-section of prompt J/Psi mesons in association with a W boson in pp collisions at sqrt(s) = 7 TeV with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2011 sample]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">5</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[http://hepdata.cedar.ac.uk/view/ins1276825 ]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[BPHY]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[BPHY-onia]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[BPHY,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[6]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2012/09/03 16:25:59</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[BPHY-2012-06]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2014/01/14</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2014/03/21</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Constantinos Melachrinos,Darren Price,Florencia Canelli,Peter  Onyisi]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Constantinos Melachrinos,Darren Price,Florencia Canelli,Peter  Onyisi]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andreas Korn,Cesare Bini,Geraldine Conti,Marjorie Shapiro]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Marjorie Shapiro]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Constantinos Melachrinos,Darren Price,Florencia Canelli,Peter  Onyisi,Constantinos Melachrinos,Darren Price,Florencia Canelli,Peter  Onyisi,Andreas Korn,Cesare Bini,Geraldine Conti,Marjorie Shapiro]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2013-184@https%3A//cds.cern.ch/record/1642553@final_cdsURL],[DOI%3A10.1007/JHEP04%282014%29172@http%3A//dx.doi.org/10.1007/JHEP04%282014%29172@final_journalPublicationURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/BPHY-2012-06@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1276825@final_journalPublicationURL],[JHEP04%282014%29172@http%3A//link.springer.com/article/10.1007/JHEP04%282014%29172@final_journalPublicationURL],[Paper%20draft@https%3A//cds.cern.ch/record/1536510@phase1_supportDocumentsURL],[arXiv%3A1401.2831@http%3A//arxiv.org/abs/1401.2831@final_arxivURL],[http://cds.cern.ch/record/1537990@http://cds.cern.ch/record/1537990@phase1_cdsURL],[https%3A//cds.cern.ch/record/1603107%3F@https%3A//cds.cern.ch/record/1603107%3F@phase3_cdsURL],[internal%20documentation%20with%20first%20draft@https%3A//cdsweb.cern.ch/record/1484224@phase1_supportDocumentsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1401.2831]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2013-184]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[Michel Vetterli]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2014/05/03</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">5110</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">389</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[JHEP_087P_0114]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[Associated Jpsi and W production@ATLAS-CONF-2013-042@CONF-BPHY-2007-01@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2013-042","id":"5645","creation":"2013/04/16","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Paper%20draft@https%3A//cds.cern.ch/record/1536510@supportDocumentsURL],[internal%20documentation%20with%20first%20draft@https%3A//cdsweb.cern.ch/record/1484224@supportDocumentsURL]]]></column>
+	</row>
+	<row id="13">
+		<column description="Publication ID" name="ID">4502</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[HSG6 Heavy Higgs to Zh]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Search for a CP-odd Higgs boson decaying to $Zh$ in $pp$ collisions at $\sqrt{s} = 8$ TeV with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Full dataset]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">25</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[HIGG]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[HIGG-HSG6]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[HIGG,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[6]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2013/09/27 09:58:42</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[HIGG-2013-06]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2015/02/16</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2015/03/24</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Aleandro Nisati,Alexander Thomas Law,Allison McCarn,Andrea Messina,Andrew Mehta,Anna Goussiou,Carl Gwilliam,Francesco Giuli,German David Carrillo Montoya,Guillermo Nicolas Hamity,Hao Liu,Jianming Qian,Jike Wang,Lucrezia Stella Bruni,Marco Rescigno,Marco Vanadia,Matteo Bauce,Matthew Beckingham,Nikolaos Rompotis,Paul Thompson,Pedro Henrique Sales De Bruin,Stefano Giagu,Thomas Andrew Schwarz,Trevor Vickey,Xiaohu Sun,Zhicai Zhang]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Allison McCarn,Andrew Mehta,Jike Wang,Marco Rescigno,Nikolaos Rompotis,Paul Thompson]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Dimitris Varouchas,Gabriel John Facini,Laurent Chevalier,Peter Kluit]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Peter Kluit]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Aleandro Nisati,Alexander Thomas Law,Allison McCarn,Andrea Messina,Andrew Mehta,Anna Goussiou,Carl Gwilliam,Francesco Giuli,German David Carrillo Montoya,Guillermo Nicolas Hamity,Hao Liu,Jianming Qian,Jike Wang,Lucrezia Stella Bruni,Marco Rescigno,Marco Vanadia,Matteo Bauce,Matthew Beckingham,Nikolaos Rompotis,Paul Thompson,Pedro Henrique Sales De Bruin,Stefano Giagu,Thomas Andrew Schwarz,Trevor Vickey,Xiaohu Sun,Zhicai Zhang,Allison McCarn,Andrew Mehta,Jike Wang,Marco Rescigno,Nikolaos Rompotis,Paul Thompson,Dimitris Varouchas,Gabriel John Facini,Laurent Chevalier,Peter Kluit]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV,8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2015-013@https%3A//cds.cern.ch/record/1989793@final_cdsURL],[DOI%3A10.1016/j.physletb.2015.03.054@http%3A//dx.doi.org/10.1016/j.physletb.2015.03.054@final_journalPublicationURL],[Draft%201@http%3A//cds.cern.ch/record/1969524@phase1_cdsURL],[Draft%202@http%3A//cds.cern.ch/record/1981994@phase3_cdsURL],[Inspire@http%3A//inspirehep.net/record/1345028@final_journalPublicationURL],[Physics%20Letters%20B%20744%20%282015%29%20163-183@http%3A//www.sciencedirect.com/science/article/pii/S0370269315002257@final_journalPublicationURL],[arXiv%3A1502.04478@http%3A//arxiv.org/abs/1502.04478@final_arxivURL],[https%3A//indico.cern.ch/event/354617/@https%3A//indico.cern.ch/event/354617/@phase1_atlasPresentationURL],[link%20to%20meeting%20with%20both%20talks@https%3A//indico.cern.ch/event/344437/@phase1_indicoURL],[lltautau%20supporting%20note@https%3A//cds.cern.ch/record/1708311@phase1_supportDocumentsURL],[llvv%2C%20llbb%20supporting%20note@https%3A//cds.cern.ch/record/1694910@phase1_supportDocumentsURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1502.04478]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2015-013]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2015/04/04</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">5110</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Beate Heinemann]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">3649</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[PLB-D-15-00251; PLB_30912]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[llvv%2C%20llbb%20supporting%20note@https%3A//cds.cern.ch/record/1694910@supportDocumentsURL],[lltautau%20supporting%20note@https%3A//cds.cern.ch/record/1708311@supportDocumentsURL]]]></column>
+	</row>
+	<row id="14">
+		<column description="Publication ID" name="ID">4303</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[HQT - Wprime to tb (hadronic)]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Search for $W' \rightarrow tb \rightarrow qqbb$ Decays in pp Collisions at $\sqrt{s}$ = 8 TeV with the ATLAS Detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[Full 2012 8 TeV data]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">20</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[http://hepdata.cedar.ac.uk/view/ins1309877 ]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[TBD]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[EXOT]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[TOPQ]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[EXOT-HQT,TOPQ-SINGLETOP]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[EXOT,TOPQ]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[14]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2013/08/05 16:21:00</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[EXOT-2013-14]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2014/08/05</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[EPJC]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2015/03/26</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Ho Ling Li,Jeremy Love,Johannes Erdmann,Young-Kee Kim]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Ho Ling Li,Jeremy Love,Johannes Erdmann,Young-Kee Kim]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Anna Di Ciaccio,Emily Thompson,Gordon Watts,Markus Cristinziani]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Gordon Watts,Markus Cristinziani]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Ho Ling Li,Jeremy Love,Johannes Erdmann,Young-Kee Kim,Ho Ling Li,Jeremy Love,Johannes Erdmann,Young-Kee Kim,Anna Di Ciaccio,Emily Thompson,Gordon Watts,Markus Cristinziani]]></column>
+		<column description="ECM" name="ECM"><![CDATA[8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2014-152@https%3A//cds.cern.ch/record/1747772@final_cdsURL],[DOI%3A%2010.1140/epjc/s10052-015-3372-2@http%3A//dx.doi.org/10.1140/epjc/s10052-015-3372-2@final_journalPublicationURL],[Draft%202@http%3A//cds.cern.ch/record/1710411@phase3_cdsURL],[Eur.%20Phys.%20J.%20C%20%20%282015%29%2075%3A165@http%3A//link.springer.com/article/10.1140/epjc/s10052-015-3372-2@final_journalPublicationURL],[Exotics%20group%20approval@https%3A//indico.cern.ch/event/312551/@phase1_indicoURL],[Figures@http%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-14/@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1309877@final_journalPublicationURL],[SVN%20repository%20for%20code%20and%20documentation@https%3A//svnweb.cern.ch/trac/atlasphys/browser/Physics/Exotic/Analysis/Wprimetb/Paper@phase1_supportDocumentsURL],[Support%20note@https%3A//cds.cern.ch/record/1621959@phase1_supportDocumentsURL],[arXiv%3A1408.0886@http%3A//arxiv.org/abs/1408.0886@final_arxivURL],[http%3A//cds.cern.ch/record/1704965@http%3A//cds.cern.ch/record/1704965@phase1_cdsURL],[https%3A//indico.cern.ch/event/323600/@https%3A//indico.cern.ch/event/323600/@phase1_atlasPresentationURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1408.0886]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2014-152]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[Gregor Herten]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[Andrew Mehta]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2015/04/28</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">999</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Gregor Herten]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">3723</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[EPJC-14-08-017;EPJC3372]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Support%20note@https%3A//cds.cern.ch/record/1621959@supportDocumentsURL],[SVN%20repository%20for%20code%20and%20documentation@https%3A//svnweb.cern.ch/trac/atlasphys/browser/Physics/Exotic/Analysis/Wprimetb/Paper@supportDocumentsURL]]]></column>
+	</row>
+	<row id="15">
+		<column description="Publication ID" name="ID">4342</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[DBL - Higgs to (Dark) Z and Dark Z to 4 lepton]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Search for new light gauge bosons in Higgs boson decays to four-lepton final states in $pp$ collisions at $\sqrt{s}=8$ TeV with the ATLAS detector at the LHC]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[2012 data set]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">20</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[Letter]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[EXOT]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[HIGG]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[EXOT-DBL,HIGG-HSG2,HIGG-HSG6]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[EXOT,HIGG]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[15]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2013/08/13 21:23:30</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[EXOT-2013-15]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2015/05/28</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PRD]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2015/09/30</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Chariclia Petridou,Daniela Paredes Hernandez,Elizabeth Castaneda Miranda,Keith Baker,Ketevi Assamagan,Mathieu Aurousseau,Simon Henry Connell,Theodota Lagouri]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Ketevi Assamagan,Theodota Lagouri]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Daniel Whiteson,Gregor Herten,Konstantinos Nikolopoulos,Shih-Chieh Hsu]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Gregor Herten]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Chariclia Petridou,Daniela Paredes Hernandez,Elizabeth Castaneda Miranda,Keith Baker,Ketevi Assamagan,Mathieu Aurousseau,Simon Henry Connell,Theodota Lagouri,Ketevi Assamagan,Theodota Lagouri,Daniel Whiteson,Gregor Herten,Konstantinos Nikolopoulos,Shih-Chieh Hsu]]></column>
+		<column description="ECM" name="ECM"><![CDATA[8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2015-111@https%3A//cds.cern.ch/record/2019396@final_cdsURL],[DOI@http%3A//dx.doi.org/10.1103/PhysRevD.92.092001@final_journalPublicationURL],[Exotics-Higgs%20Approval%20Meeting@https%3A//indico.cern.ch/event/355474/@phase1_indicoURL],[Inspire@http%3A//inspirehep.net/record/1373520@final_journalPublicationURL],[Phys.%20Rev.%20D%2092%20%282015%29%20092001@http%3A//journals.aps.org/prd/abstract/10.1103/PhysRevD.92.092001@final_journalPublicationURL],[Support%20note@http%3A//cds.cern.ch/record/1599569@phase1_supportDocumentsURL],[Z_dark%20Z_dark%20support%20note@https%3A//cds.cern.ch/record/1662365@phase1_supportDocumentsURL],[arXiv%3A1505.07645@http%3A//arxiv.org/abs/1505.07645@final_arxivURL],[http%3A//cds.cern.ch/record/1993690@http%3A//cds.cern.ch/record/1993690@phase1_cdsURL],[http%3A//cds.cern.ch/record/2012355@http%3A//cds.cern.ch/record/2012355@phase3_cdsURL],[https%3A//indico.cern.ch/event/377739/@https%3A//indico.cern.ch/event/377739/@phase1_atlasPresentationURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1505.07645]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2015-111]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2015/11/03</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID">786</column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[Andy Parker]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">2142</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[DE11915]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[7187]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[CONF-EXOT-2013-15]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[[DBL - Higgs to (Dark) Z and Dark Z to 4 lepton/Studies of Higgs coupling to hidden sector gauge bosons with four leptons final states Paper may combine both h->Z Z' and H-> Z'Z"/CONF-EXOT-2013-15]]]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[DBL - Higgs to (Dark) Z and Dark Z to 4 lepton@ATLAS-CONF-2015-003@CONF-EXOT-2013-15@CONF]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[[{ "ref":"ATLAS-CONF-2015-003","id":"7187","creation":"2013/08/13","type":"CONF"}]]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Support%20note@http%3A//cds.cern.ch/record/1599569@supportDocumentsURL],[Z_dark%20Z_dark%20support%20note@https%3A//cds.cern.ch/record/1662365@supportDocumentsURL]]]></column>
+	</row>
+	<row id="16">
+		<column description="Publication ID" name="ID">4564</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[HQT - SS dilepton/tri-leptons with b-tags]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[Analysis of events with $b$-jets and a pair of leptons of the same charge in $pp$ collisions at $\sqrt{s}=8$ TeV with the ATLAS detector]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[full 2012 8 TeV dataset]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">20.3</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[femtobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[TBD]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD"></column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD"></column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[EXOT]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[TOPQ]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[EXOT-HQT]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[EXOT,TOPQ]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[16]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2013/10/20 18:17:28</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[EXOT-2013-16]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2015/04/17</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[JHEP]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2015/09/15</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Daniela Paredes Hernandez,David Calvet,Dennis Sperlich,Djamel Eddine Boumediene,Dorian Simon,Emmanuel Busato,Emmanuelle Dubreuil,Erich Varnes,Fionnbarr O'grady,Heiko Lacker,Loic Valery,Romain Kukla,Ruchika Nayyar,Samuel Calvet,Sergio Grancagnolo,Xiaowen Lei]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[David Calvet,Erich Varnes,Loic Valery,Sergio Grancagnolo]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Elliot  Lipeles,Henry Lubatti,Kenji Hamano,Sergey Burdin]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[Sergey Burdin]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Daniela Paredes Hernandez,David Calvet,Dennis Sperlich,Djamel Eddine Boumediene,Dorian Simon,Emmanuel Busato,Emmanuelle Dubreuil,Erich Varnes,Fionnbarr O'grady,Heiko Lacker,Loic Valery,Romain Kukla,Ruchika Nayyar,Samuel Calvet,Sergio Grancagnolo,Xiaowen Lei,David Calvet,Erich Varnes,Loic Valery,Sergio Grancagnolo,Elliot  Lipeles,Henry Lubatti,Kenji Hamano,Sergey Burdin]]></column>
+		<column description="ECM" name="ECM"><![CDATA[8 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2015-060@https%3A//cds.cern.ch/record/2010295@final_cdsURL],[DOI@http%3A//dx.doi.org/10.1007/JHEP10%282015%29150@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/1361912@final_journalPublicationURL],[JHEP%2010%20%282015%29%20150@http%3A//link.springer.com/article/10.1007/JHEP10%282015%29150@final_journalPublicationURL],[Support%20note@https%3A//cds.cern.ch/record/1633156@phase1_supportDocumentsURL],[arXiv%3A1504.04605@http%3A//arxiv.org/abs/1504.04605@final_arxivURL],[group%20approval@https%3A//indico.cern.ch/event/339825/@phase1_indicoURL],[http%3A//cds.cern.ch/record/1981998@http%3A//cds.cern.ch/record/1981998@phase1_cdsURL],[http%3A//cds.cern.ch/record/1996265@http%3A//cds.cern.ch/record/1996265@phase3_cdsURL],[https%3A//indico.cern.ch/event/368792/@https%3A//indico.cern.ch/event/368792/@phase1_atlasPresentationURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1504.04605]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2015-060]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2015/10/28</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID"></column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID">3924</column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[JHEP_175P_0415]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Support%20note@https%3A//cds.cern.ch/record/1633156@supportDocumentsURL]]]></column>
+	      </row>
+	      	<row id="326">
+		<column description="Publication ID" name="ID">90</column>
+		<column description="Short Title" name="SHORT_TITLE"><![CDATA[Rjets]]></column>
+		<column description="Full Title" name="FULL_TITLE"><![CDATA[A measurement of the ratio of the W and Z cross sections with exactly one associated jet in pp collisions at sqrt(s) = 7 TeV with ATLAS]]></column>
+		<column description="Data Used" name="DATA_USED"><![CDATA[full 2010]]></column>
+		<column description="Publication Run" name="PUBLICATION_RUN"><![CDATA[1]]></column>
+		<column description="Integrated Luminosity" name="LUMINOSITY">35</column>
+		<column description="Integrated Luminosity Unit" name="LUMINOSITY_UNIT"><![CDATA[picobarn**-1]]></column>
+		<column description="HEP Data URL" name="HEP_DATA"><![CDATA[http://hepdata.cedar.ac.uk/view/ins924848]]></column>
+		<column description="Rivet Routines URL" name="RIVET"><![CDATA[]]></column>
+		<column description="Planned journal" name="PLANNED_JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Target date conf" name="TARGET_DATE_CONF" format="YYYY/MM/DD">2011/05/01</column>
+		<column description="Target date journal" name="TARGET_DATE_JOURNAL" format="YYYY/MM/DD">2011/05/01</column>
+		<column description="Lead Group" name="LEAD_GROUP"><![CDATA[STDM]]></column>
+		<column description="Other Analysis Groups" name="OTHER_GROUPS"><![CDATA[]]></column>
+		<column description="Other Analysis Sub Groups" name="OTHER_SUBGROUPS"><![CDATA[]]></column>
+		<column description="All Analysis Groups" name="ANALYSIS_SUMMARY.LEAD_GROUP || ',' || ANALYSIS_SUMMARY.OTHER_GROUPS"><![CDATA[STDM,]]></column>
+		<column description="Sequence Number" name="SEQUENCE_NUMBER"><![CDATA[13]]></column>
+		<column description="Creation Date" name="CREATION_DATE" format="YYYY/MM/DD HH24:MI:SS">2011/02/21 23:43:30</column>
+		<column description="Reference code" name="REF_CODE"><![CDATA[STDM-2011-13]]></column>
+		<column description="Global Status" name="STATUS"><![CDATA[submission_closed]]></column>
+		<column description="Submission for CERN approval" name="SUB_CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="CERN approval" name="CERN_APPROVAL"><![CDATA[]]></column>
+		<column description="Comments from CERN review" name="COMMENTS"><![CDATA[]]></column>
+		<column description="Journal Submission" name="JOURNAL_SUB" format="YYYY/MM/DD">2011/08/24</column>
+		<column description="Journal of final submission" name="JOURNAL"><![CDATA[PLB]]></column>
+		<column description="Journal Acceptance Date" name="JOURNAL_APPROVAL_DATE" format="YYYY/MM/DD">2012/01/13</column>
+		<column description="Editors" name="EDITORS"><![CDATA[Andrew Meade,Benjamin Brau,Caterina Doglioni,Chao Xu,Diego Casadei,Elina Berglund,Eric Lancon,Gerhard Brandt,Gertraud Hansl-Kozanecki,James Buchanan,Jason Nielsen,Jonathan Butterworth,José Enrique García Navarro,Kevin Einsweiler,Marcello Barisonzi,Marisa Sandhoff,Matthias Schott,Peter Maettig,Pierre-Hugues Beauchemin,Rudi Apolle,Sofia Chouridou,Stefan Ask,Tanya Sandoval,Thorsten Kuhl,Zhengguo Zhao,Zhijun Liang]]></column>
+		<column description="Contact Editors" name="CONTACT_EDITORS"><![CDATA[Benjamin Brau,Jonathan Butterworth,José Enrique García Navarro,Kevin Einsweiler,Matthias Schott,Pierre-Hugues Beauchemin,Thorsten Kuhl]]></column>
+		<column description="Editorial Board" name="EDITORIAL_BOARD"><![CDATA[Andrea Messina,Laurent Duflot,Volker Buescher,William Bell]]></column>
+		<column description="Editorial Board Chair" name="EDBCHAIR"><![CDATA[William Bell]]></column>
+		<column description="All Editors" name="EDITORS || ',' || CONTACT_EDITORS || ',' || EDITORIAL_BOARD"><![CDATA[Andrew Meade,Benjamin Brau,Caterina Doglioni,Chao Xu,Diego Casadei,Elina Berglund,Eric Lancon,Gerhard Brandt,Gertraud Hansl-Kozanecki,James Buchanan,Jason Nielsen,Jonathan Butterworth,José Enrique García Navarro,Kevin Einsweiler,Marcello Barisonzi,Marisa Sandhoff,Matthias Schott,Peter Maettig,Pierre-Hugues Beauchemin,Rudi Apolle,Sofia Chouridou,Stefan Ask,Tanya Sandoval,Thorsten Kuhl,Zhengguo Zhao,Zhijun Liang,Benjamin Brau,Jonathan Butterworth,José Enrique García Navarro,Kevin Einsweiler,Matthias Schott,Pierre-Hugues Beauchemin,Thorsten Kuhl,Andrea Messina,Laurent Duflot,Volker Buescher,William Bell]]></column>
+		<column description="ECM" name="ECM"><![CDATA[7 TeV]]></column>
+		<column description="All links" name="all_links"><![CDATA[[CERN-PH-EP-2011-126@http%3A//cdsweb.cern.ch/record/1379856@final_cdsURL],[DOI%3A10.1016/j.physletb.2012.01.042@http%3A//dx.doi.org/10.1016/j.physletb.2012.01.042@final_journalPublicationURL],[Draft%20002@http%3A//cdsweb.cern.ch/record/1371750@phase3_cdsURL],[Figures@https%3A//atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/STDM-2011-13/@final_journalPublicationURL],[Inspire@http%3A//inspirehep.net/record/924848@final_journalPublicationURL],[Internal%20supporting%20note@http%3A//cdsweb.cern.ch/record/1348058@phase1_supportDocumentsURL],[Phys.%20Lett.%20B708%20%282012%29%20221-240@http%3A//www.sciencedirect.com/science/article/pii/S037026931200055X@final_journalPublicationURL],[arXiv%3A1108.4908%20%5Bhep-ex%5D@http%3A//arxiv.org/abs/1108.4908@final_arxivURL],[http://cdsweb.cern.ch/record/1366349@http://cdsweb.cern.ch/record/1366349@phase1_cdsURL],[https%3A//indico.cern.ch/conferenceDisplay.py?confId=137517@https%3A//indico.cern.ch/conferenceDisplay.py?confId=137517@phase1_indicoURL]]]></column>
+		<column description="arXiv Reference" name="ARXIV_REFS"><![CDATA[arXiv:1108.4908 [hep-ex]]]></column>
+		<column description="Phase 3 State" name="PHASE3_STATE"><![CDATA[finished]]></column>
+		<column description="CERN Reference Number" name="CERN_REFERENCE_NUMBER"><![CDATA[CERN-PH-EP-2011-126]]></column>
+		<column description="Deleted" name="DELETED">0</column>
+		<column description="Spokesperson deputy" name="SP_NAME"><![CDATA[]]></column>
+		<column description="Publication Committee chair deputy" name="PCC_NAME"><![CDATA[]]></column>
+		<column description="Publication Date" name="PUBLICATION_DATE" format="YYYY/MM/DD">2012/02/10</column>
+		<column description="Spokesperson ID" name="SPOKESPERSON_ID"></column>
+		<column description="Spokesperson Delegated Name" name="SPOKESPERSON_DELEGATED_NAME"><![CDATA[]]></column>
+		<column description="Pubcomm ID" name="PUBCOMM_ID"></column>
+		<column description="Tracking Reference" name="TRACKING_REF"><![CDATA[PLB-D-11-01321;PLB_28288]]></column>
+		<column description="Sub Group" name="SUB_GROUP"><![CDATA[null]]></column>
+		<column description="Related confnote id" name="CONFNOTE_IDS"><![CDATA[]]></column>
+		<column description="Related confnote reference codes" name="CONF_REFCODES"><![CDATA[]]></column>
+		<column description="Related Confnotes" name="CONFNOTES"><![CDATA[]]></column>
+		<column description="Publications which this paper supersedes" name="PUB_SEARCHINFO_SUPERSEDS"><![CDATA[]]></column>
+		<column description="JSON formatted data about superdeded pubs" name="JSON_SUPERSED"><![CDATA[]]></column>
+		<column description="Supporting Documents" name="SUPP_NOTES"><![CDATA[[Internal%20supporting%20note@http%3A//cdsweb.cern.ch/record/1348058@supportDocumentsURL]]]></column>
+	</row>
+	<numberOfRows>18</numberOfRows>
+</result>

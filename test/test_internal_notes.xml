@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Search-Engine-Total-Number-Of-Results: 2633 -->
+<collection>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Volpi, Guido</dc:creator>
+  <dc:title>A Fast Hardware Tracker for the ATLAS Trigger System</dc:title>
+  <dc:subject>Detectors and Experimental Techniques</dc:subject>
+  <dc:identifier>ATL-COM-UPGRADE-2012-011</dc:identifier>
+  <dc:identifier/>
+  <dc:description>As the LHC luminosity is ramped up to 3×1034 cm−2 s−1 and beyond, the high rates, multiplicities, and energies of particles seen by the detectors will pose a unique challenge. The current three-level trigger is designed to allow a rate reduction from 40 MHz to about 400 Hz. The Fast Tracker (FTK) is an approved upgrade to the current ATLAS trigger system that will operate at full Level-1 output rates and provide high-quality tracks reconstructed in the entire inner detector by the start of processing in the Level-2 Trigger. This will allow to select signals with high purity selection and reject efficiently fakes from QCD background and therefore will free time in Level-2 farm for more refined selections. FTK solves the combinatorial challenge inherent to tracking by exploiting the massive parallelism of associative memories that can compare inner detector hits to millions of pre-calculated patterns simultaneously. The tracking problem within matched patterns is further simplified by using pre-computed linearized fitting constants and relying on fast DSPs in modern commercial FPGAs. Overall, FTK is able to compute the helix parameters for all tracks in an event and apply quality cuts in less than 100 μs. The system design is defined and the performance presented with respect to high transverse momentum (high-pT) Level-2 objects: b jets, tau jets, and isolated leptons.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-05-10</dc:date>
+  <dc:source>http://cds.cern.ch/record/1447757</dc:source>
+  <dc:type>Upgrade</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1447757</dc:identifier>
+  <invenio:conference.notes>20/05/12</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Borodin, Mikhail</dc:creator>
+  <dc:creator>De, Kaushik</dc:creator>
+  <dc:creator>Garc\xc3\xada Navarro, Jos\xc3\xa9 Enrique</dc:creator>
+  <dc:creator>Golubkov, Dmitry</dc:creator>
+  <dc:creator>Klimentov, Alexei</dc:creator>
+  <dc:creator>Maeno, Tadashi</dc:creator>
+  <dc:creator>South, David</dc:creator>
+  <dc:creator>Vaniachine, Alexandre</dc:creator>
+  <dc:title>Unified system for processing real and simulated data in the ATLAS experiment</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-SOFT-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The physics goals of the next Large Hadron Collider run include high precision tests of the Standard Model and searches for new physics. These goals “at the Gates of Nature” require detailed comparison of data with computational models simulating the expected data behavior. To highlight the role which modeling and simulation plays in future scientific discovery, we report on use cases and experience with a unified system built to process both real and simulated data of growing volume and variety.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-04</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979409</dc:source>
+  <dc:type>Software</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979409</dc:identifier>
+  <invenio:conference.notes>DAMDID Full Paper submission deadline is April 30.</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Kaplan, Benjamin</dc:creator>
+  <dc:creator>Haas, Andy</dc:creator>
+  <dc:title>Search for Higgs bosons decaying to $aa$ in the $\mu\mu\tau\tau$ final state in $pp$ collisions at $\sqrt{s} = $8 TeV with the ATLAS experiment</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A search for the the decay to a pair of new particles of either the Standard-Model-like Higgs boson ($h$), or a second CP-even Higgs boson ($H$) is presented. The dataset used is 20.3 fb$^{-1}$ of $\sqrt{s}=$ 8 TeV $pp$ collisions recorded by the ATLAS experiment at the LHC in 2012. The search was done in the context of the next-to-minimal supersymmetric standard model, in which the new particles are the lightest neutral pseudoscalar Higgs bosons ($a$). One of the two $a$ bosons is required to decay to two muons while the other is required to decay to two $\tau$-leptons. No significant excess is observed above the expected backgrounds in the $m_\mu\mu$ range from 3.7 GeV to 50 GeV. Upper limits are placed on the production of $h\rightarrow{aa}$ relative to the Standard Model $gg\rightarrow{h}$ production, assuming no coupling of the $a$ boson to quarks. The most stringent limit is placed at 3.5 % for $m_a = 3.75$ GeV. Upper limits are also placed on the production rate of $H\rightarrow{aa}$ from 2.33 pb to 0.72 pb, for fixed $m_a = 5$ GeV with $m_H$ ranging from 100 GeV to 500 GeV.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-06</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979925</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979925</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Hawkings, Richard</dc:creator>
+  <dc:title>Measurement of lepton differential distributions in $t\bar{t}$ production in $pp$ collisions at $\sqrt{s}=8$ TeV using $e\mu$ events with $b$-tagged jets</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-002</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note describes measurements of the differential distributions of leptons and lepton paris produced in dileptonic $t\bar{t}$ events with an opposite sign $e\mu$ pair, using 20.3 fb$^{-1}$ of $pp$ collision data at $\sqrt{s}=8$ TeV recorded with the ATLAS detector at the LHC. The events were selected using the leptons, and jets tagged as being likely to originate from $b$-quarks using the MV1 tagging algorithm. Absolute and normalised differential cross-sections were measured as a function of single lepton transverse momentum and rapidity, the difference in azimuthal angles of the two leptons, and various kinematic variables related to the dilepton system. The results are compared to the predictions of various $t\bar{t}$ Monte Carlo event generators.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-06</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979932</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979932</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Lister, Alison</dc:creator>
+  <dc:creator>Owen, Mark</dc:creator>
+  <dc:creator>Kind, Oliver</dc:creator>
+  <dc:creator>Costa, Maria Jose</dc:creator>
+  <dc:title>ATLAS and CMS summary plot for single top production cross section (TopLHCWG)</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-003</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Summary of the ATLAS and CMS measurements of the single top production cross-sections in the t-, s- and Wt-channels as a function of center of mass energy. For the s-channel only an upper limit is shown. The measurements are compared to theoretical calculations based on: NLO QCD, NLO QCD complemented with NNLL resummation and NNLO QCD (t-channel only).</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-06</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979935</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979935</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Barnes, Sarah Louise</dc:creator>
+  <dc:creator>Gumpert, Christian</dc:creator>
+  <dc:creator>Joshi, Kiran Daniel</dc:creator>
+  <dc:creator>Metcalfe, Jessica</dc:creator>
+  <dc:creator>Moudra, Katerina</dc:creator>
+  <dc:creator>Kepka, Oldrich</dc:creator>
+  <dc:creator>Oh, Alexander</dc:creator>
+  <dc:creator>Pilkington, Andrew</dc:creator>
+  <dc:creator>Pleier, Marc-Andre</dc:creator>
+  <dc:creator>Schnoor, Ulrike</dc:creator>
+  <dc:creator>Vest, Anja Simone</dc:creator>
+  <dc:creator>Reichelt, Daniel</dc:creator>
+  <dc:creator>Valencic, Nika</dc:creator>
+  <dc:creator>Zinser, Markus</dc:creator>
+  <dc:creator>Schott, Matthias</dc:creator>
+  <dc:title>Summary Report on the Expected Impact of a Large Eta Detector in ATLAS on Standard Model Physics Analyses</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-UPGRADE-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The extension and upgrade of ATLAS sub-detectors (inner tracker system, calorimeters, muon-system) in the forward $\eta$-region between $2.5$ and $4.0$ leads to an improved reconstruction of physics objects and hence leads also to am improvement in physics measurement at the LHC. In this note, we summarize several studies, which estimate the impact of an extended ATLAS detector on physics measurements in the Standard Model group. In particular, the effect of an extend inner tracker system is discussed.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-07</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980078</dc:source>
+  <dc:type>Upgrade</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980078</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Pleskot, Vojtech</dc:creator>
+  <dc:title>Studies of azimuthal decorrelation of dijets with a jet veto with ATLAS</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-004</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Measurements of di-jet systems with a veto on additional jets, probe QCD radiation effects. The two jets in each event with the highest transverse momentum are taken as the dijet system and a rapidity interval is defined as the region in rapidity between the centroids of these two jets. The fraction of dijet events without an additional jet in this rapidity interval and the mean jet multiplicity in the interval are presented as a function of the mean transverse momentum of the dijets and of the rapidity interval size. Correlations between the azimuthal angles of the dijets are studied both with and without a veto on additional jet activity in the rapidity interval between the jets. This study probes different approaches to the resummation of large logarithms when performing QCD calculations.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980109</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980109</dc:identifier>
+  <invenio:conference.notes>Dear referee, the document size was restricted to one page by the conference organizers. The conference in question is MPI@LHC 2014. The deadline for proceedings is 16.1.2015. Best regards Vojtech</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Borodin, Mikhail</dc:creator>
+  <dc:creator>De, Kaushik</dc:creator>
+  <dc:creator>Garc\xc3\xada Navarro, Jos\xc3\xa9 Enrique</dc:creator>
+  <dc:creator>Golubkov, Dmitry</dc:creator>
+  <dc:creator>Klimentov, Alexei</dc:creator>
+  <dc:creator>Maeno, Tadashi</dc:creator>
+  <dc:creator>South, David</dc:creator>
+  <dc:creator>Vaniachine, Alexandre</dc:creator>
+  <dc:title>Unified system for processing real and simulated data in the ATLAS experiment</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATLAS-COM-CONF-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The physics goals of the next Large Hadron Collider run include high precision tests of the Standard Model and searches for new physics. These goals “at the Gates of Nature” require detailed comparison of data with computational models simulating the expected data behavior. To highlight the role which modeling and simulation plays in future scientific discovery, we report on use cases and experience with a unified system built to process both real and simulated data of growing volume and variety.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-07-01</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980118</dc:source>
+  <dc:type>Conference talks on ATLAS</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980118</dc:identifier>
+  <invenio:conference.notes>ICCS Full Paper submission deadline is January 15.</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Calvet, David</dc:creator>
+  <dc:title>The Laser calibration of the ATLAS Tile Calorimeter during the LHC run 1</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-TILECAL-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This article describes the Laser calibration system of the ATLAS Tile Calorimeter, with details about the stability of its associated readout electronics and about the method developed to compute the calibration constants to correct for the variations of the gain of the calorimeter photomultipliers. The detection and correction of timing mis-configuration of the Tile Calorimeter using the Laser system are also presented.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-08</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980125</dc:source>
+  <dc:type>Calorimeter Working Group</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980125</dc:identifier>
+  <invenio:conference.notes>The goal is to publish this paper with a Tile list of authors.</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Jia, Jiangyong</dc:creator>
+  <dc:creator>Mohapatra, Soumya</dc:creator>
+  <dc:title>Measurement of the correlation between flow harmonics of different order in lead--lead collisions at $\sqrt{s_{_{\mathrm{NN}}}}$=2.76 Te</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-005</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Correlations between the elliptic or triangular flow coefficients, $v_m$ ($m=2$ or 3), and other flow harmonics, $v_n$ for $n=2$ to 5 are measured using 7 $\mu$b$^{-1}$ of Pb+Pb collision data at $\sqrt{s_{_{\mathrm{NN}}}}=2.76$ TeV collected by the ATLAS experiment at the LHC. The $v_m$-$v_n$ correlations are measured as a function of centrality, and, for events within the same centrality interval, also as a function of event ellipticity or triangularity. The $v_m$-$v_n$ correlations for a fixed centrality interval are very different from the correlations as a function of centrality. For events within the same centrality interval, $v_3$ is found to be anti-correlated with $v_2$ and this anti-correlation is compatible with similar anti-correlations between the corresponding eccentricities $\epsilon_2$ and $\epsilon_3$. On the other hand, it is observed that $v_4$ increases strongly with $v_2$, and $v_5$ increases strongly with both $v_2$ and $v_3$. The trend and strength of the $v_m$-$v_n$ correlations for $n=4$ and 5 are found to disagree with $\epsilon_m$-$\epsilon_n$ correlations predicted by initial geometry models. Instead, these correlations are found to be consistent with the combined effects of a linear contribution to $v_n$ and non-linear term that is a function of $v_2^2$ or of $v_2v_3$, as predicted by hydrodynamic models. A simple two-component fit is used to separate these two contributions. The magnitudes of the linear and non-linear contributions to $v_4$ and $v_5$ are found to be consistent with previously measured event-plane correlations.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-10</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980653</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980653</dc:identifier>
+  <invenio:conference.notes>This is a paper converted from confnote https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2014-022/</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Heim, Timon Frank-thomas</dc:creator>
+  <dc:creator>Backhaus, Malte</dc:creator>
+  <dc:title>Comparison of Number of Bad Pixels between IBL Module Production and IBL Stave Quality Assurance</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-INDET-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Plots for approval showing the comparison of numbers of bad pixel as identified in the IBL module production and after loading in the Stave QA test.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-12</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980855</dc:source>
+  <dc:type>Inner Detector</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980855</dc:identifier>
+  <invenio:conference.notes>Plots as approved in Pixel General meeting 26.01.15</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Hoecker, Andreas</dc:creator>
+  <dc:creator>Murray, Bill</dc:creator>
+  <dc:creator>Charlton, Dave</dc:creator>
+  <dc:creator>Wengler, Thorsten</dc:creator>
+  <dc:creator>Heinemann, Beate</dc:creator>
+  <dc:creator>Abramowicz, Halina</dc:creator>
+  <dc:creator>de Jong, Paul</dc:creator>
+  <dc:creator>Kado, Marumi</dc:creator>
+  <dc:title>ATLAS procedures for the approval of physics results</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-GEN-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This document provides guidelines and details of the procedures for the preparation and approval of physics results. It describes the roles of all the individuals and groups involved in the approval process, the purpose of the meetings, and gives a step-by-step guide on the procedures. Papers, conference notes and public notes are described.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-12</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980862</dc:source>
+  <dc:type>General ATLAS</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980862</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Adelman, Jahred</dc:creator>
+  <dc:creator>Basye, Austin</dc:creator>
+  <dc:creator>Bouffard, Julian</dc:creator>
+  <dc:creator>Casolino, Mirkoantonio</dc:creator>
+  <dc:creator>Connelly, Ian</dc:creator>
+  <dc:creator>Doyle, Tony</dc:creator>
+  <dc:creator>Dao, Valerio</dc:creator>
+  <dc:creator>Faucci Giannelli, Michele</dc:creator>
+  <dc:creator>Filthaut, Frank</dc:creator>
+  <dc:creator>Guindon, Stefan</dc:creator>
+  <dc:creator>Henkelmann, Steffen</dc:creator>
+  <dc:creator>Jain, Vivek</dc:creator>
+  <dc:creator>Juste Rozas, Aurelio</dc:creator>
+  <dc:creator>Knue, Andrea</dc:creator>
+  <dc:creator>Liss, Tony</dc:creator>
+  <dc:creator>Mantoani, Matteo</dc:creator>
+  <dc:creator>Le Menedeu, Eve</dc:creator>
+  <dc:creator>Montejo Berlingen, Javier</dc:creator>
+  <dc:creator>Moreno Llacer, Maria</dc:creator>
+  <dc:creator>Nackenhorst, Olaf</dc:creator>
+  <dc:creator>Neep, Thomas James</dc:creator>
+  <dc:creator>Owen, Mark</dc:creator>
+  <dc:creator>Pinamonti, Michele</dc:creator>
+  <dc:creator>Qin, Yang</dc:creator>
+  <dc:creator>Quadt, Arnulf</dc:creator>
+  <dc:creator>Schwanenberger, Christian</dc:creator>
+  <dc:creator>Serkin, Leonid</dc:creator>
+  <dc:creator>Shabalina, Elizaveta</dc:creator>
+  <dc:creator>Teixeira-Dias, Pedro</dc:creator>
+  <dc:creator>Thomas-Wilsker, Joshuha</dc:creator>
+  <dc:creator>Vazquez Schroeder, Tamara</dc:creator>
+  <dc:title>Search for the Standard Model Higgs boson produced in association with top quarks and decaying into $\boldsymbol{b\bar{b}}$ in $\boldsymbol{pp}$ collisions at $\sqrt{\bf s} ~{\bf=}$ $\boldsymbol{8 TeV}$ with the ATLAS detector at the LHC}</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-006</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A search for the Standard Model Higgs boson produced in association with a pair of top quarks, $t\bar{t}H$, is presented. The analysis uses 20.3~\ifb~of $pp$ collision data at $\sqrt{s}=8 $ TeV, collected with the ATLAS detector at the Large Hadron Collider during 2012. The search is designed for the $H \to b\bar{b}$ decay mode and uses events containing one or two electrons or muons. %or one electron or muon with a hadronically decaying tau. The Higgs boson is assumed to have a mass of 125 GeV. In order to improve the sensitivity of the search, events are categorised according to their jet and $b$-tagged jet multiplicities. A multivariate technique is used to discriminate between signal and background events, which are dominated by $t\bar{t}$+jets production. In the single lepton channel, a matrix element technique is employed. No significant excess of events above the background expectation is found and an observed (expected) 95 % confidence-level limit of 3.4 (2.2) times the Standard Model cross section is obtained. By performing a fit allowing for an arbitrary Higgs boson signal strength, the ratio of the measured signal strength to the Standard Model expectation is found to be $\mu = 1.5 \pm 1.1$. </dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-13</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980930</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980930</dc:identifier>
+  <invenio:conference.notes>paper draft</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Grimm, Kathryn</dc:creator>
+  <dc:creator>Pagan Griso, Simone</dc:creator>
+  <dc:creator>Prokofiev, Kirill</dc:creator>
+  <dc:creator>Meloni, Federico</dc:creator>
+  <dc:creator>Rudolph, Matthew Scott</dc:creator>
+  <dc:creator>Wildauer, Andreas</dc:creator>
+  <dc:creator>Yu, David Ren-hwa</dc:creator>
+  <dc:creator>Beringer, Juerg</dc:creator>
+  <dc:creator>Piacquadio, Giacinto</dc:creator>
+  <dc:title>Vertex Reconstruction in Run 1</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-INDET-2015-002</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This paper presents primary vertex reconstruction methods and performance in proton- proton collision data recorded by the ATLAS experiment at the LHC. Data was taken during 2012 at a center-of-mass energy of √s = 8 TeV. Vertex reconstruction is studies in both data and Monte Carlo simulation by looking at properties such as track multiplicity and track transverse momentum. Vertex reconstruction efficiency and resolution are also presented. The studies are performed both for single vertex interactions and in the presence of multiple particle interactions. It is found that the effects of increased interactions are well understood and modeled effectively.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-13</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980934</dc:source>
+  <dc:type>Inner Detector</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980934</dc:identifier>
+  <invenio:conference.notes>For the purpose of ATLAS circulation, this paper has been re-classified as PHYS. The new CDS entry is located here: ATL-COM-PHYS-2016-263 https://cds.cern.ch/record/2140021</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Spousta, Martin</dc:creator>
+  <dc:title>Jet fragmentation and multijet studies in heavy ion collisions at ATLAS</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-007</dc:identifier>
+  <dc:identifier/>
+  <dc:description>We report on two measurements done by ATLAS in a context of exploring the jet quenching physics at LHC: the jet fragmentation measurement and the measurement of \nearby jet production. Both of these measurements were done using the data collected in 2011 Pb+Pb run providing Pb+Pb collisions at $\sqrt{s_{NN}} = 2.76~$TeV. These measurements are expected to provide an insight into the modifications of jets initiated by partons passing through hot and dense QCD matter created in heavy ion collisions.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-13</dc:date>
+  <dc:source>http://cds.cern.ch/record/1980938</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1980938</dc:identifier>
+  <invenio:conference.notes>Dear colleagues, I sent a request some time ago. I did not get any feed back. The deadline is quite soon. May you please look at these proceedings? It was approved by institute representative. Thank you, Martin</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Pirumov, Hayk</dc:creator>
+  <dc:title>Impact of beam orbit drifts on 2012 van der Meer calibration</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-DAPR-2015-001</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The orbit drift correction for luminosity calibration in the 2012 van der Meer scans using BCM and LUCID detectors is presented.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-15</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981519</dc:source>
+  <dc:type>Data Preparation</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981519</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Lundberg, Olof</dc:creator>
+  <dc:title>Searches for Dark Matter with the ATLAS experiment</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-008</dc:identifier>
+  <dc:identifier/>
+  <dc:description>ATLAS is a multi-purpose detector aimed at fully exploiting the discovery potential of the proton-proton collisions at a center of mass energy of 8-14 TeV provided by CERN Large Hadron Collider. It is able to precisely identify and measure the properties of electrons, muons, photons, taus and hadronic jets. Thanks to an excellent hermeticity it is able to infer the production of neutrinos and dark matter particles from conservation of momentum using the missing energy observable. This talk will focus on the results of several dedicated searches for WIMP Dark Matter using the ATLAS detector. Among these searches are the so called "Mono-X" searches looking for signatures with large missing momentum recoiling against a gauge boson. We also present searches for decays of the Higgs boson into invisible states and searches for final states with missing transverse energy and third generation quarks. The results are interpreted in terms of Effective Field Theories as well as Simplified Models, and limits on nucleon-WIMP cross sections are inferred for both spin-dependent and spin-independent scenarios. Finally some prospects for the upcoming LHC Run 2 with collisions at the unprecedented 13-14 TeV center-of-mass energies will be presented.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-15</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981531</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981531</dc:identifier>
+  <invenio:conference.notes>January 25, 2015</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Van Den Wollenberg, Wouter</dc:creator>
+  <dc:creator>Kagan, Michael</dc:creator>
+  <dc:creator>Thompson, Emily</dc:creator>
+  <dc:creator>Zhou, Lei</dc:creator>
+  <dc:title>Measurement of the Track-Jet $b$-Tagging Efficiency of the MV1 algorithm in $pp$ Collisions at $\sqrt{s}=8$ TeV using $e\mu$ Dilepton $t\bar{t}$ events</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-009</dc:identifier>
+  <dc:identifier/>
+  <dc:description> This note describes a measurement of the $b$-tagging efficiency of the MV1 $b$-tagging algorithm for $R=0.4$ and $R=0.3$ track jets built from inner detector tracks in the complete 2012 ATLAS $pp$ collision dataset at $\sqrt{s} = 8$~\TeV, using dilepton $t\bar{t}$ events with an opposite-sign $e\mu$ pair in the final state. This analysis follows the technique previously used for the calibration of the calorimeter jet $b$-tagging efficiency, and as such uses a tag-and-probe based method to extract an unbiased estimate of the $b$-tagging efficiency using events with exactly two jet. The $b$-tagging efficiency is measured as a function of track jet $p_{T}$ in the range $7 &lt; p_{T} &lt; 250$~\GeV and as a function of $|\eta|$. The Monte Carlo Simulation is found to describe the $b$-tagging efficiency observed in data well. Results of the calibration to correct any differences between the Monte Carlo Simulation and the data in the form of scale factors, derived from the data to Monte Carlo Simulation ratio, are presented.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-15</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981533</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981533</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Duda, Dominik</dc:creator>
+  <dc:creator>Maettig, Peter</dc:creator>
+  <dc:creator>Scanlon, Timothy Paul</dc:creator>
+  <dc:creator>Piacquadio, Giacinto</dc:creator>
+  <dc:creator>Duda, Dominik</dc:creator>
+  <dc:title>Calibration of ATLAS $b$-tagging algorithms in dense jet environments</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-010</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note describes the calibration of various ATLAS $b$-tagging algorithms using reconstructed $t\bar{t}$ candidate events in the final state of one charged lepton, missing transverse momentum, and at least four jets, in the ATLAS $\sqrt{s}=8 \TeV$ $pp$ collision data sample. Expanding on previous $b$-tagging calibration studies, the $b$-tagging efficiencies are measured not only as a function of the transverse momentum or the pseudorapidity of the jets, but also as a function of quantities that are sensitive to close-by jet activity. The results measured in data are in good agreement with the predictions from simulation.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981534</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981534</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Grout, Zara Jane</dc:creator>
+  <dc:creator>Santoyo Castillo, Itzebelt</dc:creator>
+  <dc:creator>Cervelli, Alberto</dc:creator>
+  <dc:creator>Mamuzic, Judita</dc:creator>
+  <dc:creator>Gecse, Zoltan</dc:creator>
+  <dc:creator>Simon, Manuel</dc:creator>
+  <dc:creator>Potter, Christina</dc:creator>
+  <dc:creator>Mete, Alaettin Serhan</dc:creator>
+  <dc:creator>De Santo, Antonella</dc:creator>
+  <dc:creator>Petridis, Andreas</dc:creator>
+  <dc:creator>Ueno, Ryuichi</dc:creator>
+  <dc:creator>Gignac, Matthew</dc:creator>
+  <dc:creator>Hines, Elizabeth</dc:creator>
+  <dc:creator>Kaplan, Benjamin</dc:creator>
+  <dc:creator>Schneider, Basil</dc:creator>
+  <dc:creator>Xu, Da</dc:creator>
+  <dc:title>Re-interpretations and combinations of electroweak limits in 20.3 fb−1 pp collisions at √s = 8 TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-011</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This INT note contains all supporting material for re-interpretations and combinations of the EWK analyses using the full 8TeV dataset. </dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981548</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981548</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:title>Measurement of the total and differential Higgs boson production cross sections using the $H \rightarrow \gamma \gamma$ and $H \rightarrow ZZ ^{*}\rightarrow 4\ell$ channels at $\sqrt{s}=8$ TeV with the ATLAS detector </dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-012</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A measurement of the total and differential cross sections of Higgs boson production is performed using 20.3 fb$^{-1}$ of $pp$ collisions produced by the Large Hadron Collider at a centre-of-mass energy of $\sqrt{s} = 8$ TeV and recorded by the ATLAS detector. Cross sections measured in the $H \rightarrow \gamma \gamma$ and $H \rightarrow ZZ^* \rightarrow 4\ell$ decay channels are extrapolated to the inclusive phase space, combined, and compared to state-of-the-art predictions. Differential cross sections are reported as a function of Higgs boson transverse momentum, Higgs boson rapidity, number of jets in the event, and transverse momentum of the leading jet. The total production cross section is determined to be $\sigma_{pp \to H} = 33.0 \pm 5.3 \mathrm{(stat)} \pm 1.5 \mathrm{(sys)}$. </dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981578</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981578</dc:identifier>
+  <invenio:conference.notes>CDS entry for supporting note: https://cds.cern.ch/record/1757268</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Dolezal, Zdenek</dc:creator>
+  <dc:title>ATLAS studies of spectroscopy and B-decays</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-013</dc:identifier>
+  <dc:identifier/>
+  <dc:description>ATLAS has a wide programme to study the production cross section and decay properties of particles with beauty, as well as charmonium and bottomonium states. This presentation will cover the latest ATLAS results, including searches for excited b-hadrons, new decay modes of b-hadrons, indirect New Physics searches in rare B-hadron decays, as well as sthe study of mixing and CP violation in the Bs system. We will also review the results in the domain of charmonium production, including J/psi, psi(2s) and chi_c states, associated vector boson + J/psi production and search for hidden-beauty state Xb, the bottomonium counterpart of X(3876) in the Upsilon pi pi channel.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981590</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981590</dc:identifier>
+  <invenio:conference.notes>26/1/2015</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Dolezal, Zdenek</dc:creator>
+  <dc:title>ATLAS studies of spectroscopy and B-decays</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-014</dc:identifier>
+  <dc:identifier/>
+  <dc:description>ATLAS has a wide programme to study the production cross section and decay properties of particles with beauty, as well as charmonium and bottomonium states. This presentation will cover the latest ATLAS results, including searches for excited b-hadrons, new decay modes of b-hadrons, indirect New Physics searches in rare B-hadron decays, as well as sthe study of mixing and CP violation in the Bs system and parity violating asymmetry parameter alpha_b in Lambda_b -&gt; Lambda J/psi decays. We will also review the results in the domain of charmonium production, including J/psi, psi(2s) and chi_c states, associated vector boson + J/psi production and search for hidden-beauty state Xb, the bottomonium counterpart of X(3876) in the Upsilon pi pi channel.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-16</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981591</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981591</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Kroseberg, Juergen</dc:creator>
+  <dc:title>Review of ATLAS Results</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-015</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Talk slides for Bormio2015</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-15</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981593</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981593</dc:identifier>
+  <invenio:conference.notes>Jan 26, 2015</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Rossi, Leonardo Paolo</dc:creator>
+  <dc:creator>Gemme, Claudia</dc:creator>
+  <dc:creator>Guido, Elisa</dc:creator>
+  <dc:creator>Passaggio, Stefano</dc:creator>
+  <dc:creator>Favareto, Andrea</dc:creator>
+  <dc:title>Search for metastable heavy charged particles with the ATLAS detector in pp collisions at $\sqrt{s}$ = 8 TeV at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-016</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Many extensions of the Standard Model predict the existence of charged and heavy long-lived particles, such as $R$-hadrons or charginos. These particles, if produced at the Large Hadron Collider, should be moving non-relativistically and are therefore identifiable through the measurement of an anomalously large specific energy loss in the ATLAS pixel detector. Measuring heavy long-lived particles through their track parameters in the vicinity of the interaction vertex allows sensitivity to metastable particles with lifetimes from 0.6 ns to 30 ns. A search for such particles with the ATLAS}detector at the LHC is presented, based on a data sample corresponding to an integrated luminosity of 18.4 fb$^{-1}$ of $pp$ collisions at $\sqrt{s} = 8$ TeV. No significant deviation from Standard Model background expectation is observed, and lifetime dependent upper limits on $R$-hadrons and chargino production cross sections and masses are set. Gluino $R$-hadrons with 10 ns lifetime and masses up to 1185 GeV are excluded at 95\% confidence level as well as charginos with 15 ns lifetime and masses up to 482 GeV.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-18</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981754</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981754</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Cortiana, Giorgio</dc:creator>
+  <dc:creator>Nisius, Richard</dc:creator>
+  <dc:creator>Compostella, Gabriele</dc:creator>
+  <dc:creator>Maier, Andreas Alexander</dc:creator>
+  <dc:creator>Balli, Fabrice</dc:creator>
+  <dc:creator>Schwindling, Jerome</dc:creator>
+  <dc:title>Measurement of the top quark mass in the $t\bar t \to {\rm lepton+jets}$ and $t\bar t \to {\rm di-lepton}$ channels using $\sqrt{s}=7$ TeV ATLAS data: Paper Draft</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-017</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The top quark mass was measured in the channels $t\bar{t} \to \mathrm{lepton+jets}$ and $t\bar{t} \to \mathrm{dilepton}$ ($e, \mu$) based on ATLAS data recorded in 2011. The data were taken at the LHC with a proton--proton centre-of-mass energy of $\sqrt{s}=7$ TeV and correspond to an integrated luminosity of 4.6fb$^{-1}$. The $t\bar{t} \to \mathrm{lepton+jets}$ analysis uses a three-dimensional template technique which determines the top quark mass together with a global jet energy scale factor, and a relative $b$-to-light-jet energy scale factor, where the terms $b$-jets and light-jets refer to jets originating from $b$-quarks and $u, d, c, s$-quarks or gluons, respectively. The analysis of the $t\bar{t} \to \mathrm{dilepton}$ channel exploits a one-dimensional template method using the $m_{\ell b}$ observable, defined as the average invariant mass of the two lepton+$b$-jet pairs in each event. The top quark mass is measured to be $172.33\pm 0.75(\rm {stat}) \pm 1.02(\rm {syst})$ GeV, and $173.79 \pm 0.54({\rm stat}) \pm 1.30({\rm syst})$ GeV in the $t\bar{t} \to lepton+jets$ and $t\bar{t} \to dilepton$ channels, respectively. The combination of the two results yields $m_{\mathrm top} = 172.99 \pm 0.48({\rm stat}) \pm 0.78({\rm syst})$ GeV, with a total uncertainty of $0.91$ GeV. </dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-19</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981923</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981923</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Kosek, Tomas</dc:creator>
+  <dc:title>Recent Results on Hard Probes of the Quark-Gluon Plasma with the ATLAS Experiment at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-018</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Jets provide a powerful tool for probing the dynamics of the quark-gluon plasma created in Pb+Pb collisions at the LHC. The modification of high-pT parton showers as they propagate in the quark-gluon plasma, often referred to as "jet quenching", provides insight on the short-distance dynamics of the plasma. Jet quenching has been observed in a variety of single jet, dijet, and photon-jet measurements at the LHC as well as in measurements of modified production of charged-particle These results will be presented along with a survey of results of control measurements in Pb+Pb and p+Pb collisions including electroweak final states.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-19</dc:date>
+  <dc:source>http://cds.cern.ch/record/1981993</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1981993</dc:identifier>
+  <invenio:conference.notes>Conference start date is 26 January 2015</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Hirschbuehl, Dominic</dc:creator>
+  <dc:creator>Schwienhorst, Reinhard</dc:creator>
+  <dc:title>Input from the TOPLHCWG to the PDF4LHC meeting</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-020</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Short wishlist for the PDF4LHC group for further recommendation of evaluating systematic uncertainties of parton distribution functions, in particularly for analyses using MVA techniques.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-20</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982238</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982238</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Hryn'ova, Tetiana</dc:creator>
+  <dc:creator>Fedorko, Woiciech</dc:creator>
+  <dc:creator>Hayden, Daniel</dc:creator>
+  <dc:creator>Savage, Graham</dc:creator>
+  <dc:creator>Berry, Tracey</dc:creator>
+  <dc:creator>Solovyev, Victor</dc:creator>
+  <dc:creator>Long, Brian Alexander</dc:creator>
+  <dc:creator>Tsirintanis, Nikolaos</dc:creator>
+  <dc:title>Model-Independent Reinterpretation of the ATLAS 8 TeV Z’-&gt;ll and W’-&gt;lnu Run 2 results</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-021</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Heavy gauge bosons giving sizable signals with Standard Model leptons in the final state can appear in one of two possible multiplets: a) Triplets, which contain a Z' and a W', and have only 2 independent couplings or 2) Singlets, which contain just a Z' particle, and have 5 independent couplings to fermions. This note presents a first attempt to combine existing W'-&gt;lnu and Z'-&gt;ll 8TeV analysis results and to present the resulting limits in terms of couplings.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-10</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982245</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982245</dc:identifier>
+  <invenio:conference.notes>Other Authors: Manuel Perez-Victoria and Javier Lizana</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Metcalfe, Jessica</dc:creator>
+  <dc:creator>Valencic, Nika</dc:creator>
+  <dc:creator>Pleier, Marc-Andre</dc:creator>
+  <dc:creator>Schnoor, Ulrike</dc:creator>
+  <dc:creator>Schott, Matthias</dc:creator>
+  <dc:creator>Gumpert, Christian</dc:creator>
+  <dc:creator>Vest, Anja Simone</dc:creator>
+  <dc:title>Impact of an Extended Tracker on Same Sign WW at 14 TeV for HL-LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-022</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The impact of an extended tracker in a future upgraded ATLAS detector is evaluated for the process of same-electric-charge $WW$ scattering ($W^\pm W^\pm jj$) at a High-Luminosity LHC (HL-LHC) at $\sqrt{s} = 14$ TeV. Pileup suppression and identification of jets and leptons are evaluated for their impact on the significance of the $W^\pm W^\pm jj$ signal. An extension of the forward tracking system from pseudorapidities $|\eta|\le 2.5$ to $|\eta|\le 4.0$ has the potential to improve the significance of the $W^\pm W^\pm jj$ measurement by approximately 80% with mean number of $pp$ interactions per bunch crossing $\langle \mu \rangle$ = 140. The discovery potential for new physics is also evaluated in an effective field theory framework for the anomalous gauge boson coupling parameter $f_{T,1}$.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-20</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982246</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982246</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>ATLAS Collaboration</dc:creator>
+  <dc:title>Search for invisible decays of the Higgs boson produced in association with a hadronically decaying vector boson in pp collisions at √s = 8 TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-023</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A search for the Higgs boson decay to invisible (weakly interacting) particles is performed using 20.3 fb-1 of pp collision data at a centre-of-mass energy of 8 TeV recorded by the ATLAS detector at the Large Hadron Collider. The process considered is the Higgs boson production in association with a vector boson (W or Z) that decays hadronically, resulting in events of two or more jets with large missing tranverse momentum. No excess of candidates is observed in the data beyond the background expectation. The null result leads to an upper limit of XX at the 95% confidence level on the decay branching ratio of the Higgs boson to invisible particles.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-20</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982277</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982277</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Andreazza, Attilio</dc:creator>
+  <dc:creator>Battaglia, Marco</dc:creator>
+  <dc:creator>Dao, Valerio</dc:creator>
+  <dc:creator>Debenedetti, Chiara</dc:creator>
+  <dc:creator>Duffield, Emily Marie</dc:creator>
+  <dc:creator>Facini, Gabriel John</dc:creator>
+  <dc:creator>Gavrilenko, Igor</dc:creator>
+  <dc:creator>Pagan Griso, Simone</dc:creator>
+  <dc:creator>Jansky, Roland Wolfgang</dc:creator>
+  <dc:creator>Milesi, Marco</dc:creator>
+  <dc:creator>Morley, Anthony Keith</dc:creator>
+  <dc:creator>Shapiro, Marjorie</dc:creator>
+  <dc:creator>Ungaro, Francesca</dc:creator>
+  <dc:creator>Zaidan, Remi</dc:creator>
+  <dc:title>The Optimization of ATLAS Track Reconstruction in Dense Environments</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-024</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note presents recent changes in the ATLAS track reconstruction chain derived from detailed studies of track reconstruction in dense environments. The cores of high $p_{T}$ jets and $\tau$-leptons are characterized by charged particle distances comparable to the inner detector sensor dimensions. The ambiguity processor stage of the reconstruction chain was over-halled including an improvement of the usage of a NN based approach to identify clusters created by multiple charge particles. Single particle samples are used to demonstrate the alteration in a simple environment. The impact of these changes on tracks in high $p_{T}$ jets are shown to result in more pixel hits on track, a more meaningful split hit definition, and improved track parameter estimation. A 10% increase in b-jet identification for an equal fake rate has been shown.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-21</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982445</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982445</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Amaral Coutinho, Yara</dc:creator>
+  <dc:creator>Buzatu, Adrian</dc:creator>
+  <dc:creator>Nunes De Moura Junior, Natanael</dc:creator>
+  <dc:creator>Mullen, Paul</dc:creator>
+  <dc:creator>Ravenscroft, Thomas</dc:creator>
+  <dc:creator>Robson, Aidan</dc:creator>
+  <dc:creator>Seixas, Jose</dc:creator>
+  <dc:title>Impact of jet-energy corrections on the ATLAS Run I $WH\rightarrow l\nu b\bar{b}$ search - Appendices</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-025</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note serves as support for the note Impact of jet-energy corrections on the ATLAS Run I \wh~search~\cite{WHbJet}, which is a support note for the ATLAS Run I \vh~paper~\cite{ATLASRunIVH}, holding an extended selection of plots as an Appendix.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-21</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982450</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982450</dc:identifier>
+  <invenio:conference.notes>This note is a helper note for another note, holding an extended list of plots in Appendix format. </invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Amaral Coutinho, Yara</dc:creator>
+  <dc:creator>Buzatu, Adrian</dc:creator>
+  <dc:creator>Nunes De Moura Junior, Natanael</dc:creator>
+  <dc:creator>Mullen, Paul</dc:creator>
+  <dc:creator>Ravenscroft, Thomas</dc:creator>
+  <dc:creator>Robson, Aidan</dc:creator>
+  <dc:creator>Seixas, Jose</dc:creator>
+  <dc:title>{Impact of jet-energy corrections on the ATLAS Run I $WH\rightarrow l\nu b\bar{b}$ search - Appendices</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-026</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note serves as support for the note ``Impact of jet-energy corrections on the ATLAS Run I \wh~search'', holding an extended selection of plots as an Appendix.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-21</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982451</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982451</dc:identifier>
+  <invenio:conference.notes>An a posteriori support note for the Run I WH analysis and its paper, focusing on the b-jet energy corrections for the dijet invariant mass distribution. Several potential corrections are also discussed and a recommendation is made for the Run II analysis. </invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Amaral Coutinho, Yara</dc:creator>
+  <dc:creator>Buzatu, Adrian</dc:creator>
+  <dc:creator>Nunes De Moura Junior, Natanael</dc:creator>
+  <dc:creator>Mullen, Paul</dc:creator>
+  <dc:creator>Ravenscroft, Thomas</dc:creator>
+  <dc:creator>Robson, Aidan</dc:creator>
+  <dc:creator>Seixas, Jose</dc:creator>
+  <dc:title>Impact of jet-energy corrections on the ATLAS Run I $WH\rightarrow l\nu b\bar{b}$ search</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-027</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note serves both as \emph{a posteriori} support for the Run I \vh~search paper, and investigates several potential $b$-jet energy corrections, proposing one of them for the Run II analysis. Since the di-$b$-jet invariant mass (\mbb) is the best known signal to background discriminant, the search sensitivity increases when the \mbb~resolution improves. We reproduce the 2-jet 2-$b$-tag \wh~sample. After the $b$-jet reconstruction and event selection are reviewed, the four consecutive jet energy corrections are studied and confirmed to be beneficial to the \wh~search. We further show that a transverse momentum (Pt) correction derived in the \wh~sample gives consistent results with the one used, derived in the \zhll~sample. In 12\% of cases where the $b$ quark decays semileptonically through a muon and a neutrino, even after the muon-in-jet (Mu) correction, the jet energy response is about 10\% smaller due to the unaccounted neutrino. 78.7\%, 20.1\% and 1.2\% of events have zero, one or two jets with muons, respectively. Relative to the generated \mbb~peak, the reconstructed peak is 0.7\% higher, 3.4\% lower and 5.9\% lower, respectively. This is improved to 0.4\% lower, 0.3\% higher and 2.2\% higher, respectively, and the total \mbb~width is improved by 1.5\%, from 12.9 GeV to 12.7 GeV, when two different Pt corrections are used, depending on whether the jet contains or not a muon. We therefore recommend that, at a minimum, this approach is taken for the Run II analysis. We also investigate corrections based on regressions using artificial neural networks. We show that using the Pt as sole input is equivalent to the existing Pt correction, and adding the change in Pt due to the Mu correction as a second input is equivalent with two Pt corrections depending on whether there is a muon or not. Several other further potential improvements are outlined for future study.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-21</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982452</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982452</dc:identifier>
+  <invenio:conference.notes>An a posteriori support note for the Run I WH analysis and its paper, focusing on the b-jet energy corrections for the dijet invariant mass distribution. Several potential corrections are also discussed and a recommendation is made for the Run II analysis. This is the main note, while the previous one is supporting this note with many plots in Appendix style. </invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>ATLAS Collaboration</dc:creator>
+  <dc:title>Search for direct top-squark pair production in final states with two $\tau$ leptons in \boldmath{pp} collisions at $\sqrt{s}=8$~TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-028</dc:identifier>
+  <dc:identifier/>
+  <dc:description> A search for direct pair production of supersymmetric partners of the top quark decaying via a $\tau$ slepton to a light weakly interacting particle has been performed using 20.3~fb$^{-1}$ of $pp$ collision data at $\sqrt{s}=8$~TeV, collected by the ATLAS experiment at the Large Hadron Collider in 2012. Top squark candidates are identified in events with two oppositely charged leptons, including one or two hadronically decaying $\tau$ leptons. No excess over the Standard Model expectation is found ({\em or maybe it is...}). Exclusion limits at 95\% confidence level are set as a function of the top squark and $\tau$ slepton masses. Depending on the $\tau$ slepton mass, lower limits between xxx~GeV and yyy~GeV are placed on the top squark mass.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-22</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982649</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982649</dc:identifier>
+  <invenio:conference.notes>paper draft</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Backes, Moritz</dc:creator>
+  <dc:creator>Caminal Armadans, Roger</dc:creator>
+  <dc:creator>Cortes-Gonzalez, Arely</dc:creator>
+  <dc:creator>Fischer, Cora</dc:creator>
+  <dc:creator>Giangiobbe, Vincent</dc:creator>
+  <dc:creator>Gillam, Thomas</dc:creator>
+  <dc:creator>Hopkins, Walter Howard</dc:creator>
+  <dc:creator>Kanaya, Naoko</dc:creator>
+  <dc:creator>Fernandez Martinez, Patricia</dc:creator>
+  <dc:creator>Marzin, Antoine</dc:creator>
+  <dc:creator>Maurer, Julien</dc:creator>
+  <dc:creator>Nakahama, Yu</dc:creator>
+  <dc:creator>Nobe, Takuya</dc:creator>
+  <dc:creator>Poveda, Joaquin</dc:creator>
+  <dc:creator>Yamanaka, Takashi</dc:creator>
+  <dc:creator>Abulaiti, Yiming</dc:creator>
+  <dc:creator>Vivarelli, Iacopo</dc:creator>
+  <dc:creator>Macdonald, Calum Michael</dc:creator>
+  <dc:title>Interpretation of ATLAS SUSY Searches to Third Generation Squark Production in pMSSM</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-029</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note describes reinterpretation of the third generation squark searches to the various pMSSM specialised for the third generation squark productions.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-23</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982658</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982658</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Chakraborty, Dhiman</dc:creator>
+  <dc:title>Charged Higgs boson searches at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-030</dc:identifier>
+  <dc:identifier/>
+  <dc:description>We present the latest results from searches for singly charged Higgs bosons carried out by the ATLAS and CMS Collaborations at the LHC. Both experiments have searched for production of charged Higgs bosons in pp collisions of up to 20 (5) fb^-</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-22</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982659</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982659</dc:identifier>
+  <invenio:conference.notes>The deadline has passed. It is now overdue.</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Bernlochner, Florian Urs</dc:creator>
+  <dc:creator>Becot, Cyril</dc:creator>
+  <dc:creator>Yuen, Stephanie Pui Yan</dc:creator>
+  <dc:creator>Gillberg, Dag Ingemar</dc:creator>
+  <dc:creator>Fayard, Louis</dc:creator>
+  <dc:title>Setting Limits on the Higgs width using interference information in the di-photon channel with √s = 8 TeV data</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-031</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This support note documents limits on the Higgs boson decay width extracted using interferometry in the di-photon channel, as well as the expected impact from interferometry on the Higgs mass measurement in the H \to \gamma\gamma channel.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-23</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982806</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982806</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Cooper, Ben</dc:creator>
+  <dc:creator>Wardrope, David Robert</dc:creator>
+  <dc:creator>Thompson, Emily</dc:creator>
+  <dc:creator>Alison, John</dc:creator>
+  <dc:creator>Zhou, Lei</dc:creator>
+  <dc:creator>Bellomo, Massimiliano</dc:creator>
+  <dc:creator>Kagan, Michael</dc:creator>
+  <dc:creator>Konstantinidis, Nikolaos</dc:creator>
+  <dc:creator>BIN NORJOHARUDDEEN , Nurfikri</dc:creator>
+  <dc:creator>Falla, Rebecca Jane</dc:creator>
+  <dc:creator>Willocq, Stephane</dc:creator>
+  <dc:creator>Van Den Wollenberg, Wouter</dc:creator>
+  <dc:title>Search for di-Higgs production in the 4b final state from pp collisions at $\sqrt{s} = 8$ TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-032</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A search for $pp\hspace{-1mm}\to\hspace{-1mm} hh\hspace{-1mm}\to\hspace{-1mm} b\bar{b}b\bar{b}$ has been performed in 19.5 fb$^{-1}$ of proton-proton collision data at $\sqrt{s}=8$ TeV, which were recorded by ATLAS in 2012. The decay of each Higgs boson is reconstructed as a high-$p_{T}$ $b\bar{b}$ system with either a pair of small-radius jets or a single large-radius jet, the latter exploiting jet substructure techniques and associated $b$-tagged track jets for the first time in ATLAS. No evidence for resonant or non-resonant Higgs pair production is observed. Using a bulk Randall-Sundrum Kaluza-Klein graviton with $k/M_{Pl} = 1.0$ as a benchmark resonant signal, a 95$\%$ confidence level upper limit on $\sigma\left(pp\hspace{-1mm}\to\hspace{-1mm}G^{*}_{KK}\hspace{-1mm}\to\hspace{-1mm}hh\hspace{-1mm}\to\hspace{-1mm}b\bar{b}b\bar{b}\right)$ of 3 (5) fb is set for $m_{G^*_{KK}} = 1.0$ (1.5) TeV. For this model, gravitons with $500 &lt; m_{G*} &lt; 720$ GeV are excluded at the 95$\%$ confidence level. The search for non-resonant SM $hh$ production sets an observed 95\% confidence level upper limit on $\sigma(pp\hspace{-1mm}\rightarrow\hspace{-1mm}hh\hspace{-1mm}\rightarrow\hspace{-1mm}b\bar{b}b\bar{b})$ of 198 fb, which corresponds to $\mu = \sigma/\sigma_{\rm{SM}} = 57^{+8}_{-6}$, a significant improvement on the previous best limit of $\mu = 205^{+29}_{-22}$</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-23</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982833</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982833</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Alstaty, Mahmoud</dc:creator>
+  <dc:creator>Djama, Fares</dc:creator>
+  <dc:creator>Miglioranzi, Silvia</dc:creator>
+  <dc:title>Cluster Properties and Lorentz Angle Measurement in the 4-Layer Pixel Detector Using Cosmic Rays</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-INDET-2015-003</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The 4-layer Pixel Detector with the recently installed innermost layer called IBL saw its first data during the 2014 fall cosmic run. This note shows cluster properties and Lorentz angle fits for IBL sensors as well as old barrel layer sensors.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-23</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982847</dc:source>
+  <dc:type>Inner Detector</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982847</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Gross, Eilam</dc:creator>
+  <dc:creator>Adye, Tim</dc:creator>
+  <dc:creator>Yang, Hongtao</dc:creator>
+  <dc:title>Combined measurement of the Higgs boson mass from the $H \rightarrow \gamma\gamma$ and $H \rightarrow ZZ^{(*)}\rightarrow \ell\ell\ell\ell$ channels with Run I $pp$ collision data at $\sqrt{s}=7$~TeV and $8$~TeV at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-033</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A combined measurement of the mass of the Higgs boson by the ATLAS and CMS experiments at the CERN Large Hadron Collider is presented. The measurement is derived from a combined fit to the reconstructed invariant mass spectra of the decay channels $H \rightarrow \gamma\gamma$ and $H \rightarrow ZZ^{(*)}\rightarrow \ell\ell\ell\ell$. The dataset used corresponds to an integrated luminosity per experiment ranging from 4.5 to 5.1 fb$^{-1}$ of $pp$ collisions recorded at center-of-mass energy of 7 TeV, and 19.7 to 20.3 fb$^{-1}$ recorded at 8 TeV. The measured value of the Higgs boson mass is $m_{H} =125.09\pm0.21\mathrm{(stat.)}\pm0.11\mathrm{(syst.)}~\mathrm{GeV}$. The consistency between the mass value measurements from individual decay channels and from individual experiments is within 1$\sigma$.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-23</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982850</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982850</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Canepa, Anadi</dc:creator>
+  <dc:title>Selected Highlights from the LHC and HL-LHC Physics Program</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-034</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Selected Highlights from the LHC and HL-LHC Physics Program</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-24</dc:date>
+  <dc:source>http://cds.cern.ch/record/1982856</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1982856</dc:identifier>
+  <invenio:conference.notes>January 26th, 2015</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Bawa, Harinder Singh</dc:creator>
+  <dc:title>Recent results from Beyond Standard Model (BSM) searches at LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-036</dc:identifier>
+  <dc:identifier/>
+  <dc:description>We present the results and prospects for searches beyond the Standard Model (SM) at the LHC by the ATLAS and CMS collaborations. The minimal supersymmetric extension of the SM has been investigated in various configurations at 8TeV center of mass energy at LHC and lower limits are set on the s-particle masses. The searches for other scenarios of physics beyond the SM are also presented. The data are found to be consistent with the Standard Model. The non-observation of a signal is converted to limits at the 95% confidence level(C.L) on the production cross section times branching ratio and on the masses of the hypothesized new particles for appropriate benchmark models (new heavy gauge bosons, extra-dimensions, compositeness or dark matter).</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-26</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983129</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983129</dc:identifier>
+  <invenio:conference.notes>I manually added conference name into form above. This is X SILAFAE Conf. held in Medellin, Colombia from Nov 24-28, 2014</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Bawa, Harinder Singh</dc:creator>
+  <dc:title>Recent results from Beyond Standard Model (BSM) searches at LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-037</dc:identifier>
+  <dc:identifier/>
+  <dc:description>We present the results and prospects for searches beyond the Standard Model (SM) at the LHC by the ATLAS and CMS collaborations. The minimal supersymmetric extension of the SM has been investigated in various configurations at 8TeV center of mass energy at LHC and lower limits are set on the s-particle masses. The searches for other scenarios of physics beyond the SM are also presented. The data are found to be consistent with the Standard Model. The non-observation of a signal is converted to limits at the 95% confidence level(C.L) on the production cross section times branching ratio and on the masses of the hypothesized new particles for appropriate benchmark models (new heavy gauge bosons, extra-dimensions, compositeness or dark matter)</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-26</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983132</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983132</dc:identifier>
+  <invenio:conference.notes>Deadline for submitting Conference proceeding is February 15, 2015. The Conference is X SILAFAE Conf, held in Nov 24-28, 2014 at Medellin, Colombia</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Tavares Delgado, Ademar</dc:creator>
+  <dc:creator>ATLAS Collaboration</dc:creator>
+  <dc:title>Design and performance of the ATLAS jet trigger system</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-DAQ-2015-002</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The CERN Large Hadron Collider is the biggest and most powerful particle collider made by man. It produces 40 million proton-proton collisions per second at unprecedented energies to explore the fundamental laws and properties of Nature. The ATLAS experiment is one of the detectors that analyse and record these collisions. It generates an infeasible large data volume that has to be selected before it can be permanently stored. The event selection is made by the ATLAS trigger system, which reduces the data volume by a factor of 10^5 . The trigger system has to be highly configurable in order to adapt to changing running conditions and maximize the physics output whilst keeping the output rate under control. A particularly interesting pattern generated during collisions consists of a collimated spray of particles, known as hadronic jet. To retain the interesting jets and efficiently reject the overwhelming background, optimal jet energy resolution is needed. Therefore the Jet trigger software requires CPU-intensive reconstruction algorithms. In order to reduce the resources needed for the reconstruction step, a partial detector readout scheme was developed, which effectively suppresses the low activity regions of the calorimeter. In this paper we describe the overall ATLAS trigger software, and the jet trigger in particular, along with the improvements made on the system. We then focus on detailed studies of the algorithm timing and the performance impact of the full and partial calorimeter readout schemes. We conclude with an outlook of the jet trigger plans for the next LHC data-taking period.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-26</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983138</dc:source>
+  <dc:type>DAQ and Trigger</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983138</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Perepelitsa, Dennis</dc:creator>
+  <dc:title>Jet quenching measurements in lead-lead collisions at 2.76 TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-038</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Measurements of jets from highly energetic partons are considered to be one of the most direct probes of the hot and dense QCD medium produced in ultrarelativistic collisions of large nuclei. These fast partons suffer energy loss and the modification of their parton shower though interactions with the traversed medium. This phenomenon, known as jet quenching, may be experimentally investigated in a variety of ways, such as through measurements of the nuclear modification factor and modifications to the fragmentation function for inclusive high-pT reconstructed jets, or through the angular correlations of jets in multijet production. In this talk, the latest results from measurements of jet quenching in 2.76 TeV lead-lead collisions with the ATLAS detector at the LHC will be presented. The centrality of these collisions is characterized using the total transverse energy in the forward calorimeters, situated at 3.1 &lt; |eta| &lt; 4.9. Jets are reconstructed within the hermetic, large acceptance ATLAS hadronic calorimeter, allowing for a detailed probe of jet quenching phenomena over a wide kinematic range in transverse momentum and rapidity.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-26</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983139</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983139</dc:identifier>
+  <invenio:conference.notes>conference start date is 2 February 2015 (but the talk is not until 4 February 2015)</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Chen, Chunhui</dc:creator>
+  <dc:creator>De Lorenzi, Francesco</dc:creator>
+  <dc:creator>Prell, Soeren</dc:creator>
+  <dc:creator>Pluth, Daniel</dc:creator>
+  <dc:title>Search for Type III Seesaw heavy leptons in $pp$ collisions at $\sqrt{s}=8$ TeV with the ATLAS Detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-039</dc:identifier>
+  <dc:identifier/>
+  <dc:description>A search is presented for production of heavy leptons predicted by the Type III seesaw theory in order to explain the origin of the small neutrino masses. The analysis is performed using the final state that contains two leptons (electron or muon), two jets from a hadronically decaying $W$ boson and large missing transverse momentum. The data used in the measurement corresponds to an integrated luminosity of 20.3~fb$^{-1}$ of $pp$ collisions at $\sqrt{s} = 8$ TeV collected by the ATLAS detector at the LHC. No evidence of heavy lepton production is observed. Depending on the considered theoretical scenarios, heavy leptons with masses below 320-450~GeV are excluded at 95\% confidence level. </dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-26</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983141</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983141</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Marchiori, Giovanni</dc:creator>
+  <dc:title>Prospects for the measurement of the rare Higgs boson decay $H\to\mu\mu$ with 3000 fb$^{-1}$ of $pp$ collisions collected at $\sqrt{s} = 14$ TeV by the ATLAS experiment</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-040</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note presents an updated study of the prospects for the measurement of the rare decay $H\to \mu\mu$ using 3000 fb$^{-1}$ of proton-proton collisions at $\sqrt{s}=14$~TeV recorded with the ATLAS detector at the high-luminosity (HL) LHC. Generated samples of the main signal and background processes, combined with parametrisations of the detector performances (efficiencies and resolutions) are used to estimate the expected signal and background yields after a selection similar to the analysis performed in Run 1. The sensitivity of the analysis is improved by classifying events in categories with different $S/B$. A fit to the distribution of the di-muon invariant mass of the selected candidates is used to perform the final discrimination between signal and background, to estimate the significance of the signal yield, to extract the $H\to\mu\mu$ branching ratio and compare it to the Standard Model prediction. For an Asimov dataset generated at 3000 fb$^{-1}$, the fitted signal strength is $\mu = 0.98 \pm 0.13$ and the significance of the signal, estimated from the profile of the likelihood vs $\mu$ upon maximisation of the other nuisance parameters is around $7.7\sigma$ neglecting all systematic uncertainties (including theoretical ones).</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-27</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983169</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983169</dc:identifier>
+  <invenio:conference.notes>other author: Charles Delporte (UPMC, Paris)</invenio:conference.notes>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Chekanov, Sergei</dc:creator>
+  <dc:creator>Paramonov, Alexander</dc:creator>
+  <dc:creator>Proudfoot, James</dc:creator>
+  <dc:title>Simulation of energies per TileCal PMT for pileup events for the LHC phase 2 upgrade</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-TILECAL-2015-002</dc:identifier>
+  <dc:identifier/>
+  <dc:description>An examination of truth-level energies per photomultiplier (PMT) of the Tile calorimeter (TileCal) using Monte Carlo simulations is presented. The full detector simulation was performed for minimum-bias events and for events with high-$p_T$ jets. We studied different pileup scenarios, assuming the average number of interactions per beam crossing $&lt;\mu&gt;$=23, 30, 140 and 200. The truth-level energy distributions for separate TileCal PMTs discussed in this note are valuable inputs for the phase 2 TileCal upgrade studies.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-27</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983210</dc:source>
+  <dc:type>Calorimeter Working Group</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983210</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Brosamer, Jacquelyn</dc:creator>
+  <dc:creator>Shapiro, Marjorie</dc:creator>
+  <dc:creator>Cooke, Mark</dc:creator>
+  <dc:creator>Hinchliffe, Ian</dc:creator>
+  <dc:creator>Tibbetts, Mark James</dc:creator>
+  <dc:title>Measurement of jets produced in top quark events using the $e\mu$ final state with 2 $b$-tagged jets in $pp$ collisions at $\sqrt{s}=8$ TeV with the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-041</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The transverse momentum $p_T$ and multiplicity of jets produced in top quark events are measured using 20.3fb$^{-1}$ of $pp$ collision data at a center-of-mass energy of $\sqrt{s}=8$ TeV. Jets are selected from top events requiring an opposite-charge $e\mu$ pair and two $b$-tagged jets in the final state. The data are corrected to obtain the particle-level fiducial cross section $\frac{1}{\sigma_{e\mu+2~b-\textrm{jets}}} \frac{d\sigma_{\mathrm{jet}}}{dp_T}$for additional jets rank 1-4, where rank=1 is the leading additional jet. These distributions are used to obtain the extra jet multiplicity as a function of minimum jet $p_T$ threshold. The $p_T$ distribution of the $b$-jets are also presented.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-27</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983211</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983211</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Bertsche, Carolyn</dc:creator>
+  <dc:creator>Hawkings, Richard</dc:creator>
+  <dc:creator>Strauss, Michael</dc:creator>
+  <dc:title>Measurement of $t\bar t$ production with a veto on additional central jet activity in $pp$ collisions at $\sqrt{s}=8$ TeV using the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-042</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note presents a measurement of the amount of QCD radiation in top quark pair-production ($t\bar t$) events, using dilepton $t\bar t$ events that have an opposite-sign $e\mu$ pair and two $b$-tagged jets in the final state. The measurement includes the complete 2012 ATLAS data sample of 20.3 fb$^{-1}$ integrated luminosity of $pp$ collision data at $\sqrt{s}=8$~\tev{}, and identifies jets containing $b$-quarks with the MV1 tagging algorithm, which leverages the long lifetime, high decay multiplicity, and high mass of $b$-hadrons. The fraction of signal events that does not contain additional jet activity in a central rapidity region is measured as a function of (a) the minimum transverse momentum of any additional jet in the event, and (b) the minimum scalar transverse momentum sum of all additional jets in the event, and the results shown for four central rapidity regions and four invariant mass regions. Compensation for detector effects is applied to the experimental measurement and the results compared at the particle level to simulations by several next-to-leading order (NLO) and leading order (LO) Monte Carlo generators. The resulting gap fraction measurements, in comparison with simulation, can be used to tune Monte Carlo modeling of QCD radiation, which is influenced by parameters such as the choice of renormalisation/factorisation scales, the parton shower matching procedure, and initial and final state radiation simulation. The results may also reduce associated modeling uncertainties for ATLAS top quark physics measurements.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-28</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983214</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983214</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Gabaldon, Carolina</dc:creator>
+  <dc:creator>Schwienhorst, Reinhard</dc:creator>
+  <dc:title>Study of correlation of PDF uncertainty in single top and top pair production at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-043</dc:identifier>
+  <dc:identifier/>
+  <dc:description>The incomplete knowledge of parton distribution functions is an important source of systematic uncertainty for top-quark measurements, including top-quark pair and single top-quark production cross sections, as well as for analyses that have a large background from these processes. The correlation of the parton-distribution-function uncertainty is studied for top-quark pair production and single top-quark production in association with a W boson, in final states with two reconstructed leptons. Four types of correlation are studied: between total production cross-sections, between cross-section and acceptance correction, between the two processes for common selection requirements, and between different jet multiplicity requirements. The uncertainty correlation is evaluated for several sets of parton distribution functions using simulated samples of top-quark pair and single top-quark events.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-28</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983591</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983591</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Grimm, Kathryn</dc:creator>
+  <dc:creator>Meloni, Federico</dc:creator>
+  <dc:creator>Pagan Griso, Simone</dc:creator>
+  <dc:creator>Prokofiev, Kirill</dc:creator>
+  <dc:creator>Rudolph, Matthew Scott</dc:creator>
+  <dc:creator>Wildauer, Andreas</dc:creator>
+  <dc:creator>Yu, David Ren-hwa</dc:creator>
+  <dc:title>Reconstruction of primary vertices in Run I proton-proton collisions at the LHC</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-INDET-2015-004</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note presents studies on the reconstruction of primary vertices in high luminosity Run I $pp$ collisions using the ATLAS detector at the LHC. Results include both 7 TeV and 8 TeV collisions, but the focus is on 8 TeV running. During the year $2012$, the peak value of instant luminosity recorded by ATLAS was $8\cdot10^{33}\;{\rm cm}^{-2}{\rm s}^{-1}$. While the average number of events per bunch crossing was near 25 for most of 2012 running, special high-pile up runs recorded as many as 70 events per bunch crossing. In such conditions, correct reconstruction of the signal primary vertex and identification of all pile-up interactions in a bunch crossing represents a significant challenge. In this note we quantify the different processes affecting the efficiency of primary vertex reconstruction in such conditions. The mathematical model of such processes is developed and their importance is studied on both Monte Carlo simulation and data collected by the ATLAS experiment. The efficiency of correct reconstruction and identification of primary vertices are studied in detail for several key physics processes at LHC.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-28</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983607</dc:source>
+  <dc:type>Inner Detector</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983607</dc:identifier>
+  <invenio:conference.notes>Support note for ATL-COM-INDET-2015-002</invenio:conference.notes>
+</dc:dc>
+</collection>

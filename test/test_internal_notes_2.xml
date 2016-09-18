@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Search-Engine-Total-Number-Of-Results: 2633 -->
+<collection>
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Hawkings, Richard</dc:creator>
+  <dc:title>Measurement of lepton differential distributions in $t\bar{t}$ production in $pp$ collisions at $\sqrt{s}=8$ TeV using $e\mu$ events with $b$-tagged jets</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-002</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note describes measurements of the differential distributions of leptons and lepton paris produced in dileptonic $t\bar{t}$ events with an opposite sign $e\mu$ pair, using 20.3 fb$^{-1}$ of $pp$ collision data at $\sqrt{s}=8$ TeV recorded with the ATLAS detector at the LHC. The events were selected using the leptons, and jets tagged as being likely to originate from $b$-quarks using the MV1 tagging algorithm. Absolute and normalised differential cross-sections were measured as a function of single lepton transverse momentum and rapidity, the difference in azimuthal angles of the two leptons, and various kinematic variables related to the dilepton system. The results are compared to the predictions of various $t\bar{t}$ Monte Carlo event generators.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-06</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979932</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979932</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Lister, Alison</dc:creator>
+  <dc:creator>Owen, Mark</dc:creator>
+  <dc:creator>Kind, Oliver</dc:creator>
+  <dc:creator>Costa, Maria Jose</dc:creator>
+  <dc:title>ATLAS and CMS summary plot for single top production cross section (TopLHCWG)</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-003</dc:identifier>
+  <dc:identifier/>
+  <dc:description>Summary of the ATLAS and CMS measurements of the single top production cross-sections in the t-, s- and Wt-channels as a function of center of mass energy. For the s-channel only an upper limit is shown. The measurements are compared to theoretical calculations based on: NLO QCD, NLO QCD complemented with NNLL resummation and NNLO QCD (t-channel only).</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-06</dc:date>
+  <dc:source>http://cds.cern.ch/record/1979935</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1979935</dc:identifier>
+</dc:dc>
+
+<dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:invenio="http://invenio-software.org/elements/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:language>eng</dc:language>
+  <dc:creator>Bertsche, Carolyn</dc:creator>
+  <dc:creator>Hawkings, Richard</dc:creator>
+  <dc:creator>Strauss, Michael</dc:creator>
+  <dc:title>Measurement of $t\bar t$ production with a veto on additional central jet activity in $pp$ collisions at $\sqrt{s}=8$ TeV using the ATLAS detector</dc:title>
+  <dc:subject>Particle Physics - Experiment</dc:subject>
+  <dc:identifier>ATL-COM-PHYS-2015-042</dc:identifier>
+  <dc:identifier/>
+  <dc:description>This note presents a measurement of the amount of QCD radiation in top quark pair-production ($t\bar t$) events, using dilepton $t\bar t$ events that have an opposite-sign $e\mu$ pair and two $b$-tagged jets in the final state. The measurement includes the complete 2012 ATLAS data sample of 20.3 fb$^{-1}$ integrated luminosity of $pp$ collision data at $\sqrt{s}=8$~\tev{}, and identifies jets containing $b$-quarks with the MV1 tagging algorithm, which leverages the long lifetime, high decay multiplicity, and high mass of $b$-hadrons. The fraction of signal events that does not contain additional jet activity in a central rapidity region is measured as a function of (a) the minimum transverse momentum of any additional jet in the event, and (b) the minimum scalar transverse momentum sum of all additional jets in the event, and the results shown for four central rapidity regions and four invariant mass regions. Compensation for detector effects is applied to the experimental measurement and the results compared at the particle level to simulations by several next-to-leading order (NLO) and leading order (LO) Monte Carlo generators. The resulting gap fraction measurements, in comparison with simulation, can be used to tune Monte Carlo modeling of QCD radiation, which is influenced by parameters such as the choice of renormalisation/factorisation scales, the parton shower matching procedure, and initial and final state radiation simulation. The results may also reduce associated modeling uncertainties for ATLAS top quark physics measurements.</dc:description>
+  <dc:publisher/>
+  <dc:date>2015-01-28</dc:date>
+  <dc:source>http://cds.cern.ch/record/1983214</dc:source>
+  <dc:type>Physics</dc:type>
+  <dc:identifier>http://cds.cern.ch/record/1983214</dc:identifier>
+</dc:dc>
+
+</collection>
